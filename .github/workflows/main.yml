@@ -29,8 +29,7 @@ jobs:
         python3 ../statcountercli/main.py
     - name: Delete cloned repository
       run: |
-        rm generated_urls.json
-        cd ..
+        rm parsed/generated_urls.json
         rm -rf statcountercli
 
     - name: Commit changes
