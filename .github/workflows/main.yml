@@ -25,9 +25,11 @@ jobs:
         pip install bs4 pandas
         mkdir parsed
         cd parsed
+        cp ../statcountercli/generated_urls.json ./generated_urls.json
         python3 ../statcountercli/main.py
     - name: Delete cloned repository
       run: |
+        rm generated_urls.json
         cd ..
         rm -rf statcountercli
 
