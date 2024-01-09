@@ -1,0 +1,43 @@
+name: StatCounter Parse
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Clone repository
+      run: |
+         rm -r parsed/
+         git clone https://github.com/OpenStatsLab/statcountercli
+    - name: Run Python files
+      run: |
+        pip install bs4 pandas
+        mkdir parsed
+        cd parsed
+        python3 ../statcountercli/main.py
+    - name: Delete cloned repository
+      run: |
+        cd ..
+        rm -rf statcountercli
+
+    - name: Commit changes
+      run: |
+        current_date=$(date +'%d/%m/%Y, %H:%M')
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add -A
+        git commit -m "Update: $current_date"
+    - name: Push changes
+      run: |
+        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/statcounter-parsed.git
