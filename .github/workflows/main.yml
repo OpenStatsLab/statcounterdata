@@ -41,4 +41,4 @@ jobs:
         git commit -m "Update: $current_date"
     - name: Push changes
       run: |
-        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/statcntr-data.git
+        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/statcounterdata.git
