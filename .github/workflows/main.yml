@@ -2,7 +2,7 @@ name: StatCounter Parse
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '40 13 * * *'
   workflow_dispatch:
 
 jobs:
