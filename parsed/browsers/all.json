@@ -5313,10 +5313,10 @@
   },
   "2024-01": {
     "Chrome": 64.38,
-    "Safari": 18.87,
-    "Edge": 5.34,
+    "Safari": 18.84,
+    "Edge": 5.36,
     "Firefox": 3.31,
-    "Opera": 2.58,
+    "Opera": 2.57,
     "Samsung Internet": 2.54,
     "UC Browser": 0.81,
     "Android": 0.47,
@@ -5324,7 +5324,7 @@
     "QQ Browser": 0.33,
     "360 Safe Browser": 0.31,
     "IE": 0.16,
-    "Coc Coc": 0.15,
+    "Coc Coc": 0.14,
     "KaiOS": 0.09,
     "Whale Browser": 0.08,
     "Edge Legacy": 0.04,
@@ -5335,6 +5335,7 @@
     "Puffin": 0.02,
     "Instabridge": 0.02,
     "IEMobile": 0.01,
+    "Maxthon": 0.01,
     "Chromium": 0.01,
     "Sony PS4": 0.01
   }
