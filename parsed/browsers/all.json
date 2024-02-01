@@ -5312,11 +5312,11 @@
     "Sony PS4": 0.01
   },
   "2024-01": {
-    "Chrome": 64.38,
-    "Safari": 18.86,
-    "Edge": 5.35,
+    "Chrome": 64.41,
+    "Safari": 18.82,
+    "Edge": 5.36,
     "Firefox": 3.3,
-    "Opera": 2.56,
+    "Opera": 2.55,
     "Samsung Internet": 2.55,
     "UC Browser": 0.8,
     "Android": 0.48,
@@ -5338,5 +5338,6 @@
     "Maxthon": 0.01,
     "Chromium": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2024-02": {}
 }
