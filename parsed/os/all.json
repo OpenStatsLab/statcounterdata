@@ -3224,16 +3224,16 @@
     "Other": 0.01
   },
   "2024-02": {
-    "Android": 43.55,
-    "Windows": 27.48,
-    "iOS": 17.85,
-    "OS X": 6.03,
-    "Unknown": 2.41,
-    "Linux": 1.54,
-    "Chrome OS": 0.79,
-    "Samsung": 0.22,
+    "Android": 44.49,
+    "Windows": 26.52,
+    "iOS": 18.0,
+    "OS X": 5.92,
+    "Unknown": 2.43,
+    "Linux": 1.5,
+    "Chrome OS": 0.76,
+    "Samsung": 0.23,
     "KaiOS": 0.08,
-    "Xbox": 0.02,
+    "Xbox": 0.03,
     "Playstation": 0.01,
     "Other": 0.01
   }
