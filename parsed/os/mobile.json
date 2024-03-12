@@ -2847,9 +2847,9 @@
     "Linux": 0.01
   },
   "2024-03": {
-    "Android": 71.04,
-    "iOS": 28.2,
-    "Samsung": 0.4,
+    "Android": 71.01,
+    "iOS": 28.24,
+    "Samsung": 0.39,
     "Unknown": 0.17,
     "KaiOS": 0.13,
     "Windows": 0.02,
