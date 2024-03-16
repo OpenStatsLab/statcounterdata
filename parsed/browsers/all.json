@@ -5366,9 +5366,9 @@
     "Sony PS4": 0.01
   },
   "2024-03": {
-    "Chrome": 64.99,
+    "Chrome": 64.98,
     "Safari": 18.56,
-    "Edge": 5.08,
+    "Edge": 5.09,
     "Firefox": 2.85,
     "Samsung Internet": 2.69,
     "Opera": 2.53,
@@ -5383,9 +5383,9 @@
     "KaiOS": 0.08,
     "Sogou Explorer": 0.04,
     "Mozilla": 0.04,
-    "Instabridge": 0.04,
     "Other": 0.04,
     "Edge Legacy": 0.03,
+    "Instabridge": 0.03,
     "Unknown": 0.02,
     "Puffin": 0.02,
     "Chromium": 0.01,
