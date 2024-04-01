@@ -5367,13 +5367,13 @@
   },
   "2024-03": {
     "Chrome": 65.0,
-    "Safari": 18.55,
-    "Edge": 5.03,
-    "Firefox": 2.8,
-    "Samsung Internet": 2.64,
+    "Safari": 18.57,
+    "Edge": 5.01,
+    "Firefox": 2.79,
+    "Samsung Internet": 2.65,
     "Opera": 2.53,
     "UC Browser": 0.88,
-    "Android": 0.67,
+    "Android": 0.66,
     "360 Safe Browser": 0.4,
     "QQ Browser": 0.4,
     "Yandex Browser": 0.34,
@@ -5390,5 +5390,6 @@
     "Puffin": 0.02,
     "Chromium": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2024-04": {}
 }
