@@ -5392,12 +5392,12 @@
     "Sony PS4": 0.01
   },
   "2024-04": {
-    "Chrome": 64.93,
-    "Safari": 18.56,
-    "Edge": 5.2,
-    "Firefox": 2.93,
-    "Samsung Internet": 2.58,
-    "Opera": 2.48,
+    "Chrome": 64.97,
+    "Safari": 18.49,
+    "Edge": 5.23,
+    "Firefox": 2.94,
+    "Samsung Internet": 2.57,
+    "Opera": 2.47,
     "UC Browser": 0.88,
     "Android": 0.48,
     "QQ Browser": 0.44,
@@ -5414,8 +5414,8 @@
     "Mozilla": 0.03,
     "Unknown": 0.02,
     "Puffin": 0.02,
-    "Sony PS4": 0.02,
     "Maxthon": 0.01,
-    "Chromium": 0.01
+    "Chromium": 0.01,
+    "Sony PS4": 0.01
   }
 }
