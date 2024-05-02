@@ -2868,5 +2868,15 @@
     "Nokia Unknown": 0.01,
     "Linux": 0.01
   },
-  "2024-05": {}
+  "2024-05": {
+    "Android": 71.28,
+    "iOS": 27.98,
+    "Samsung": 0.39,
+    "Unknown": 0.18,
+    "KaiOS": 0.13,
+    "Windows": 0.02,
+    "Series 40": 0.01,
+    "Nokia Unknown": 0.01,
+    "Linux": 0.01
+  }
 }
