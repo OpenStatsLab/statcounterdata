@@ -1,557 +1,1509 @@
 {
   "2009-01": {
-    "Unnamed: 1": NaN
+    "Windows": 95.42,
+    "OS X": 3.68,
+    "Linux": 0.64,
+    "Unknown": 0.17,
+    "Playstation": 0.08,
+    "Other": 0.02
   },
   "2009-02": {
-    "Unnamed: 1": NaN
+    "Windows": 95.39,
+    "OS X": 3.76,
+    "Linux": 0.62,
+    "Unknown": 0.14,
+    "Playstation": 0.07,
+    "Other": 0.02
   },
   "2009-03": {
-    "Unnamed: 1": NaN
+    "Windows": 95.22,
+    "OS X": 3.87,
+    "Linux": 0.65,
+    "Unknown": 0.16,
+    "Playstation": 0.08,
+    "Other": 0.02
   },
   "2009-04": {
-    "Unnamed: 1": NaN
+    "Windows": 95.13,
+    "OS X": 3.92,
+    "Linux": 0.66,
+    "Unknown": 0.17,
+    "Playstation": 0.1,
+    "Other": 0.02
   },
   "2009-05": {
-    "Unnamed: 1": NaN
+    "Windows": 95.25,
+    "OS X": 3.75,
+    "Linux": 0.65,
+    "Unknown": 0.24,
+    "Playstation": 0.09,
+    "Other": 0.02
   },
   "2009-06": {
-    "Unnamed: 1": NaN
+    "Windows": 94.76,
+    "OS X": 4.07,
+    "Linux": 0.74,
+    "Unknown": 0.28,
+    "Playstation": 0.11,
+    "Other": 0.03
   },
   "2009-07": {
-    "Unnamed: 1": NaN
+    "Windows": 94.83,
+    "OS X": 4.12,
+    "Linux": 0.76,
+    "Playstation": 0.14,
+    "Unknown": 0.13,
+    "Other": 0.02
   },
   "2009-08": {
-    "Unnamed: 1": NaN
+    "Windows": 94.69,
+    "OS X": 4.35,
+    "Linux": 0.69,
+    "Playstation": 0.15,
+    "Unknown": 0.1,
+    "Other": 0.02
   },
   "2009-09": {
-    "Unnamed: 1": NaN
+    "Windows": 94.61,
+    "OS X": 4.44,
+    "Linux": 0.7,
+    "Playstation": 0.12,
+    "Unknown": 0.1,
+    "Other": 0.03
   },
   "2009-10": {
-    "Unnamed: 1": NaN
+    "Windows": 94.35,
+    "OS X": 4.71,
+    "Linux": 0.68,
+    "Playstation": 0.13,
+    "Unknown": 0.1,
+    "Other": 0.02
   },
   "2009-11": {
-    "Unnamed: 1": NaN
+    "Windows": 93.98,
+    "OS X": 4.96,
+    "Linux": 0.72,
+    "Unknown": 0.17,
+    "Playstation": 0.14,
+    "Other": 0.03
   },
   "2009-12": {
-    "Unnamed: 1": NaN
+    "Windows": 94.19,
+    "OS X": 4.72,
+    "Linux": 0.68,
+    "Unknown": 0.23,
+    "Playstation": 0.15,
+    "Other": 0.02
   },
   "2010-01": {
-    "Unnamed: 1": NaN
+    "Windows": 93.76,
+    "OS X": 5.16,
+    "Linux": 0.7,
+    "Unknown": 0.2,
+    "Playstation": 0.15,
+    "Other": 0.02
   },
   "2010-02": {
-    "Unnamed: 1": NaN
+    "Windows": 93.36,
+    "OS X": 5.63,
+    "Linux": 0.74,
+    "Playstation": 0.13,
+    "Unknown": 0.11,
+    "Other": 0.03
   },
   "2010-03": {
-    "Unnamed: 1": NaN
+    "Windows": 93.17,
+    "OS X": 5.78,
+    "Linux": 0.78,
+    "Playstation": 0.13,
+    "Unknown": 0.11,
+    "Other": 0.03
   },
   "2010-04": {
-    "Unnamed: 1": NaN
+    "Windows": 92.96,
+    "OS X": 5.92,
+    "Linux": 0.79,
+    "Unknown": 0.15,
+    "Playstation": 0.14,
+    "Other": 0.03
   },
   "2010-05": {
-    "Unnamed: 1": NaN
+    "Windows": 93.04,
+    "OS X": 5.77,
+    "Linux": 0.81,
+    "Unknown": 0.18,
+    "Playstation": 0.14,
+    "iOS": 0.03,
+    "Other": 0.03
   },
   "2010-06": {
-    "Unnamed: 1": NaN
+    "Windows": 93.27,
+    "OS X": 5.56,
+    "Linux": 0.8,
+    "Playstation": 0.15,
+    "iOS": 0.1,
+    "Unknown": 0.08,
+    "Other": 0.03
   },
   "2010-07": {
-    "Unnamed: 1": NaN
+    "Windows": 93.29,
+    "OS X": 5.53,
+    "Linux": 0.77,
+    "Playstation": 0.15,
+    "iOS": 0.14,
+    "Unknown": 0.08,
+    "Other": 0.03
   },
   "2010-08": {
-    "Unnamed: 1": NaN
+    "Windows": 93.11,
+    "OS X": 5.66,
+    "Linux": 0.79,
+    "iOS": 0.18,
+    "Playstation": 0.15,
+    "Unknown": 0.08,
+    "Other": 0.03
   },
   "2010-09": {
-    "Unnamed: 1": NaN
+    "Windows": 92.88,
+    "OS X": 5.9,
+    "Linux": 0.78,
+    "iOS": 0.2,
+    "Playstation": 0.14,
+    "Unknown": 0.08,
+    "Other": 0.02
   },
   "2010-10": {
-    "Unnamed: 1": NaN
+    "Windows": 92.72,
+    "OS X": 6.05,
+    "Linux": 0.77,
+    "iOS": 0.23,
+    "Playstation": 0.14,
+    "Unknown": 0.07,
+    "Other": 0.02
   },
   "2010-11": {
-    "Unnamed: 1": NaN
+    "Windows": 92.51,
+    "OS X": 6.22,
+    "Linux": 0.78,
+    "iOS": 0.26,
+    "Playstation": 0.13,
+    "Unknown": 0.07,
+    "Other": 0.02
   },
   "2010-12": {
-    "Unnamed: 1": NaN
+    "Windows": 92.42,
+    "OS X": 6.25,
+    "Linux": 0.75,
+    "iOS": 0.33,
+    "Playstation": 0.15,
+    "Unknown": 0.08,
+    "Other": 0.02
   },
   "2011-01": {
-    "Unnamed: 1": NaN
+    "Windows": 92.02,
+    "OS X": 6.56,
+    "Linux": 0.74,
+    "iOS": 0.44,
+    "Playstation": 0.15,
+    "Unknown": 0.07,
+    "Other": 0.02,
+    "Android": 0.01
   },
   "2011-02": {
-    "Unnamed: 1": NaN
+    "Windows": 91.98,
+    "OS X": 6.59,
+    "Linux": 0.76,
+    "iOS": 0.43,
+    "Playstation": 0.14,
+    "Unknown": 0.07,
+    "Other": 0.02,
+    "Android": 0.01
   },
   "2011-03": {
-    "Unnamed: 1": NaN
+    "Windows": 92.01,
+    "OS X": 6.53,
+    "Linux": 0.76,
+    "iOS": 0.46,
+    "Playstation": 0.13,
+    "Unknown": 0.07,
+    "Android": 0.02,
+    "Other": 0.02
   },
   "2011-04": {
-    "Unnamed: 1": NaN
+    "Windows": 91.98,
+    "OS X": 6.47,
+    "Linux": 0.76,
+    "iOS": 0.53,
+    "Playstation": 0.14,
+    "Unknown": 0.07,
+    "Android": 0.03,
+    "Other": 0.02
   },
   "2011-05": {
-    "Unnamed: 1": NaN
+    "Windows": 91.95,
+    "OS X": 6.35,
+    "Linux": 0.81,
+    "iOS": 0.61,
+    "Playstation": 0.15,
+    "Unknown": 0.08,
+    "Android": 0.04,
+    "Other": 0.02
   },
   "2011-06": {
-    "Unnamed: 1": NaN
+    "Windows": 91.94,
+    "OS X": 6.27,
+    "Linux": 0.79,
+    "iOS": 0.7,
+    "Playstation": 0.14,
+    "Unknown": 0.08,
+    "Android": 0.05,
+    "Other": 0.02
   },
   "2011-07": {
-    "Unnamed: 1": NaN
+    "Windows": 91.87,
+    "OS X": 6.23,
+    "iOS": 0.83,
+    "Linux": 0.76,
+    "Playstation": 0.15,
+    "Unknown": 0.07,
+    "Android": 0.07,
+    "Other": 0.03
   },
   "2011-08": {
-    "Unnamed: 1": NaN
+    "Windows": 91.75,
+    "OS X": 6.28,
+    "iOS": 0.9,
+    "Linux": 0.78,
+    "Playstation": 0.15,
+    "Android": 0.08,
+    "Unknown": 0.04,
+    "Other": 0.02
   },
   "2011-09": {
-    "Unnamed: 1": NaN
+    "Windows": 91.11,
+    "OS X": 6.78,
+    "iOS": 1.0,
+    "Linux": 0.8,
+    "Playstation": 0.15,
+    "Android": 0.08,
+    "Unknown": 0.06,
+    "Other": 0.02
   },
   "2011-10": {
-    "Unnamed: 1": NaN
+    "Windows": 90.47,
+    "OS X": 7.18,
+    "iOS": 1.12,
+    "Linux": 0.84,
+    "Playstation": 0.15,
+    "Android": 0.14,
+    "Unknown": 0.07,
+    "Other": 0.03
   },
   "2011-11": {
-    "Unnamed: 1": NaN
+    "Windows": 90.5,
+    "OS X": 7.05,
+    "iOS": 1.24,
+    "Linux": 0.84,
+    "Android": 0.15,
+    "Playstation": 0.14,
+    "Unknown": 0.04,
+    "Other": 0.04
   },
   "2011-12": {
-    "Unnamed: 1": NaN
+    "Windows": 90.29,
+    "OS X": 7.01,
+    "iOS": 1.41,
+    "Linux": 0.83,
+    "Android": 0.19,
+    "Playstation": 0.15,
+    "Unknown": 0.07,
+    "Other": 0.06
   },
   "2012-01": {
-    "Unnamed: 1": NaN
+    "Windows": 89.62,
+    "OS X": 7.33,
+    "iOS": 1.71,
+    "Linux": 0.82,
+    "Android": 0.24,
+    "Playstation": 0.14,
+    "Unknown": 0.07,
+    "Other": 0.07
   },
   "2012-02": {
-    "Unnamed: 1": NaN
+    "Windows": 89.5,
+    "OS X": 7.41,
+    "iOS": 1.81,
+    "Linux": 0.83,
+    "Android": 0.26,
+    "Unknown": 0.08,
+    "Other": 0.07,
+    "Playstation": 0.04
   },
   "2012-03": {
-    "Unnamed: 1": NaN
+    "Windows": 89.37,
+    "OS X": 7.32,
+    "iOS": 1.89,
+    "Linux": 0.83,
+    "Android": 0.28,
+    "Unknown": 0.14,
+    "Other": 0.1,
+    "Playstation": 0.06
   },
   "2012-04": {
-    "Unnamed: 1": NaN
+    "Windows": 88.75,
+    "OS X": 7.66,
+    "iOS": 2.12,
+    "Linux": 0.85,
+    "Android": 0.31,
+    "Other": 0.14,
+    "Playstation": 0.12,
+    "Unknown": 0.05
   },
   "2012-05": {
-    "Unnamed: 1": NaN
+    "Windows": 88.81,
+    "OS X": 7.45,
+    "iOS": 2.24,
+    "Linux": 0.86,
+    "Android": 0.33,
+    "Other": 0.14,
+    "Playstation": 0.12,
+    "Unknown": 0.05
   },
   "2012-06": {
-    "Unnamed: 1": NaN
+    "Windows": 88.89,
+    "OS X": 7.05,
+    "iOS": 2.4,
+    "Linux": 0.83,
+    "Android": 0.37,
+    "Other": 0.26,
+    "Playstation": 0.13,
+    "Unknown": 0.05
   },
   "2012-07": {
-    "Unnamed: 1": NaN
+    "Windows": 88.85,
+    "OS X": 6.92,
+    "iOS": 2.64,
+    "Linux": 0.83,
+    "Android": 0.4,
+    "Other": 0.16,
+    "Playstation": 0.13,
+    "Unknown": 0.06
   },
   "2012-08": {
-    "Unnamed: 1": NaN
+    "Windows": 91.54,
+    "OS X": 7.41,
+    "Linux": 0.85,
+    "Other": 0.11,
+    "Unknown": 0.06,
+    "Android": 0.03,
+    "Chrome OS": 0.01
   },
   "2012-09": {
-    "Unnamed: 1": NaN
+    "Windows": 91.18,
+    "OS X": 7.75,
+    "Linux": 0.88,
+    "Other": 0.11,
+    "Unknown": 0.06,
+    "Android": 0.02,
+    "Chrome OS": 0.01
   },
   "2012-10": {
-    "Unnamed: 1": NaN
+    "Windows": 91.04,
+    "OS X": 7.87,
+    "Linux": 0.9,
+    "Other": 0.09,
+    "Unknown": 0.06,
+    "Android": 0.03,
+    "Chrome OS": 0.01
   },
   "2012-11": {
-    "Unnamed: 1": NaN
+    "Windows": 91.02,
+    "OS X": 7.86,
+    "Linux": 0.9,
+    "Other": 0.09,
+    "Unknown": 0.06,
+    "Android": 0.05,
+    "Chrome OS": 0.01
   },
   "2012-12": {
-    "Unnamed: 1": NaN
+    "Windows": 91.22,
+    "OS X": 7.69,
+    "Linux": 0.88,
+    "Android": 0.09,
+    "Unknown": 0.07,
+    "Other": 0.04,
+    "Chrome OS": 0.01
   },
   "2013-01": {
-    "Unnamed: 1": NaN
+    "Windows": 90.96,
+    "OS X": 7.95,
+    "Linux": 0.88,
+    "Android": 0.12,
+    "Unknown": 0.07,
+    "Chrome OS": 0.01
   },
   "2013-02": {
-    "Unnamed: 1": NaN
+    "Windows": 90.87,
+    "OS X": 7.95,
+    "Linux": 0.93,
+    "Android": 0.15,
+    "Unknown": 0.07,
+    "Chrome OS": 0.02,
+    "Other": 0.01
   },
   "2013-03": {
-    "Unnamed: 1": NaN
+    "Windows": 91.16,
+    "OS X": 7.7,
+    "Linux": 0.95,
+    "Unknown": 0.08,
+    "Android": 0.08,
+    "Chrome OS": 0.02,
+    "Other": 0.01
   },
   "2013-04": {
-    "Unnamed: 1": NaN
+    "Windows": 91.28,
+    "OS X": 7.47,
+    "Linux": 1.05,
+    "Android": 0.1,
+    "Unknown": 0.08,
+    "Chrome OS": 0.02
   },
   "2013-05": {
-    "Unnamed: 1": NaN
+    "Windows": 90.84,
+    "OS X": 7.61,
+    "Linux": 1.28,
+    "Android": 0.15,
+    "Unknown": 0.09,
+    "Chrome OS": 0.02
   },
   "2013-06": {
-    "Unnamed: 1": NaN
+    "Windows": 90.43,
+    "OS X": 7.87,
+    "Linux": 1.3,
+    "Android": 0.25,
+    "Unknown": 0.12,
+    "Chrome OS": 0.02,
+    "Other": 0.01
   },
   "2013-07": {
-    "Unnamed: 1": NaN
+    "Windows": 90.49,
+    "OS X": 7.81,
+    "Linux": 1.23,
+    "Android": 0.35,
+    "Unknown": 0.08,
+    "Chrome OS": 0.03
   },
   "2013-08": {
-    "Unnamed: 1": NaN
+    "Windows": 90.56,
+    "OS X": 7.63,
+    "Linux": 1.23,
+    "Android": 0.46,
+    "Unknown": 0.09,
+    "Chrome OS": 0.03
   },
   "2013-09": {
-    "Unnamed: 1": NaN
+    "Windows": 90.89,
+    "OS X": 7.41,
+    "Linux": 1.02,
+    "Android": 0.54,
+    "Unknown": 0.1,
+    "Chrome OS": 0.04
   },
   "2013-10": {
-    "Unnamed: 1": NaN
+    "Windows": 90.63,
+    "OS X": 7.42,
+    "Linux": 1.1,
+    "Android": 0.71,
+    "Unknown": 0.1,
+    "Chrome OS": 0.04
   },
   "2013-11": {
-    "Unnamed: 1": NaN
+    "Windows": 90.34,
+    "OS X": 7.45,
+    "Linux": 1.15,
+    "Android": 0.9,
+    "Unknown": 0.11,
+    "Chrome OS": 0.05
   },
   "2013-12": {
-    "Unnamed: 1": NaN
+    "Windows": 89.55,
+    "OS X": 7.83,
+    "Android": 1.3,
+    "Linux": 1.13,
+    "Chrome OS": 0.1,
+    "Unknown": 0.08,
+    "Other": 0.01
   },
   "2014-01": {
-    "Unnamed: 1": NaN
+    "Windows": 88.87,
+    "OS X": 8.35,
+    "Android": 1.45,
+    "Linux": 1.13,
+    "Chrome OS": 0.14,
+    "Unknown": 0.05
   },
   "2014-02": {
-    "Unnamed: 1": NaN
+    "Windows": 89.65,
+    "OS X": 8.39,
+    "Linux": 1.14,
+    "Android": 0.38,
+    "Unknown": 0.26,
+    "Chrome OS": 0.16
   },
   "2014-03": {
-    "Unnamed: 1": NaN
+    "Windows": 89.61,
+    "OS X": 8.58,
+    "Linux": 1.16,
+    "Unknown": 0.47,
+    "Chrome OS": 0.18
   },
   "2014-04": {
-    "Unnamed: 1": NaN
+    "Windows": 89.18,
+    "OS X": 8.85,
+    "Linux": 1.34,
+    "Unknown": 0.44,
+    "Chrome OS": 0.19
   },
   "2014-05": {
-    "Unnamed: 1": NaN
+    "Windows": 88.83,
+    "OS X": 8.85,
+    "Linux": 1.58,
+    "Unknown": 0.54,
+    "Chrome OS": 0.19
   },
   "2014-06": {
-    "Unnamed: 1": NaN
+    "Windows": 89.27,
+    "OS X": 8.56,
+    "Linux": 1.37,
+    "Unknown": 0.61,
+    "Chrome OS": 0.19
   },
   "2014-07": {
-    "Unnamed: 1": NaN
+    "Windows": 89.25,
+    "OS X": 8.59,
+    "Linux": 1.34,
+    "Unknown": 0.63,
+    "Chrome OS": 0.19
   },
   "2014-08": {
-    "Unnamed: 1": NaN
+    "Windows": 89.15,
+    "OS X": 8.65,
+    "Linux": 1.38,
+    "Unknown": 0.61,
+    "Chrome OS": 0.21
   },
   "2014-09": {
-    "Unnamed: 1": NaN
+    "Windows": 88.49,
+    "OS X": 9.15,
+    "Linux": 1.39,
+    "Unknown": 0.72,
+    "Chrome OS": 0.25
   },
   "2014-10": {
-    "Unnamed: 1": NaN
+    "Windows": 88.28,
+    "OS X": 9.13,
+    "Linux": 1.41,
+    "Unknown": 0.9,
+    "Chrome OS": 0.27
   },
   "2014-11": {
-    "Unnamed: 1": NaN
+    "Windows": 88.47,
+    "OS X": 8.98,
+    "Linux": 1.33,
+    "Unknown": 0.93,
+    "Chrome OS": 0.28
   },
   "2014-12": {
-    "Unnamed: 1": NaN
+    "Windows": 88.74,
+    "OS X": 8.67,
+    "Linux": 1.39,
+    "Unknown": 0.91,
+    "Chrome OS": 0.29
   },
   "2015-01": {
-    "Unnamed: 1": NaN
+    "Windows": 88.19,
+    "OS X": 9.1,
+    "Linux": 1.46,
+    "Unknown": 0.91,
+    "Chrome OS": 0.33,
+    "Other": 0.01
   },
   "2015-02": {
-    "Unnamed: 1": NaN
+    "Windows": 88.08,
+    "OS X": 9.09,
+    "Linux": 1.55,
+    "Unknown": 0.94,
+    "Chrome OS": 0.34,
+    "Other": 0.01
   },
   "2015-03": {
-    "Unnamed: 1": NaN
+    "Windows": 86.99,
+    "OS X": 9.83,
+    "Linux": 1.82,
+    "Unknown": 1.0,
+    "Chrome OS": 0.34,
+    "Other": 0.01
   },
   "2015-04": {
-    "Unnamed: 1": NaN
+    "Windows": 87.0,
+    "OS X": 9.61,
+    "Linux": 1.91,
+    "Unknown": 1.12,
+    "Chrome OS": 0.35,
+    "Other": 0.01
   },
   "2015-05": {
-    "Unnamed: 1": NaN
+    "Windows": 86.09,
+    "OS X": 10.51,
+    "Linux": 1.77,
+    "Unknown": 1.23,
+    "Chrome OS": 0.38,
+    "Other": 0.02
   },
   "2015-06": {
-    "Unnamed: 1": NaN
+    "Windows": 86.3,
+    "OS X": 10.17,
+    "Linux": 1.77,
+    "Unknown": 1.46,
+    "Chrome OS": 0.29,
+    "Other": 0.02
   },
   "2015-07": {
-    "Unnamed: 1": NaN
+    "Windows": 87.7,
+    "OS X": 8.6,
+    "Unknown": 1.9,
+    "Linux": 1.52,
+    "Chrome OS": 0.26,
+    "Other": 0.01
   },
   "2015-08": {
-    "Unnamed: 1": NaN
+    "Windows": 88.07,
+    "OS X": 8.18,
+    "Unknown": 1.94,
+    "Linux": 1.5,
+    "Chrome OS": 0.3,
+    "Other": 0.01
   },
   "2015-09": {
-    "Unnamed: 1": NaN
+    "Windows": 87.48,
+    "OS X": 8.63,
+    "Unknown": 1.93,
+    "Linux": 1.55,
+    "Chrome OS": 0.41,
+    "Other": 0.01
   },
   "2015-10": {
-    "Unnamed: 1": NaN
+    "Windows": 86.44,
+    "OS X": 9.02,
+    "Unknown": 2.51,
+    "Linux": 1.57,
+    "Chrome OS": 0.46,
+    "Other": 0.01
   },
   "2015-11": {
-    "Unnamed: 1": NaN
+    "Windows": 85.84,
+    "OS X": 9.36,
+    "Unknown": 2.81,
+    "Linux": 1.5,
+    "Chrome OS": 0.47,
+    "Other": 0.01
   },
   "2015-12": {
-    "Unnamed: 1": NaN
+    "Windows": 84.89,
+    "OS X": 9.8,
+    "Unknown": 3.31,
+    "Linux": 1.48,
+    "Chrome OS": 0.51,
+    "Other": 0.01
   },
   "2016-01": {
-    "Unnamed: 1": NaN
+    "Windows": 85.18,
+    "OS X": 9.03,
+    "Unknown": 3.8,
+    "Linux": 1.47,
+    "Chrome OS": 0.51,
+    "Other": 0.01
   },
   "2016-02": {
-    "Unnamed: 1": NaN
+    "Windows": 84.82,
+    "OS X": 9.33,
+    "Unknown": 3.83,
+    "Linux": 1.47,
+    "Chrome OS": 0.55,
+    "Other": 0.01
   },
   "2016-03": {
-    "Unnamed: 1": NaN
+    "Windows": 85.89,
+    "OS X": 9.38,
+    "Unknown": 2.74,
+    "Linux": 1.45,
+    "Chrome OS": 0.53,
+    "Other": 0.01
   },
   "2016-04": {
-    "Unnamed: 1": NaN
+    "Windows": 85.3,
+    "OS X": 9.52,
+    "Unknown": 3.06,
+    "Linux": 1.55,
+    "Chrome OS": 0.55,
+    "Other": 0.01
   },
   "2016-05": {
-    "Unnamed: 1": NaN
+    "Windows": 84.54,
+    "OS X": 9.83,
+    "Unknown": 3.59,
+    "Linux": 1.44,
+    "Chrome OS": 0.59,
+    "Other": 0.01
   },
   "2016-06": {
-    "Unnamed: 1": NaN
+    "Windows": 84.1,
+    "OS X": 9.95,
+    "Unknown": 4.06,
+    "Linux": 1.47,
+    "Chrome OS": 0.41,
+    "Other": 0.01
   },
   "2016-07": {
-    "Unnamed: 1": NaN
+    "Windows": 83.33,
+    "OS X": 9.61,
+    "Unknown": 5.16,
+    "Linux": 1.54,
+    "Chrome OS": 0.35,
+    "Other": 0.01
   },
   "2016-08": {
-    "Unnamed: 1": NaN
+    "Windows": 82.45,
+    "OS X": 9.81,
+    "Unknown": 5.81,
+    "Linux": 1.52,
+    "Chrome OS": 0.41,
+    "Other": 0.01
   },
   "2016-09": {
-    "Unnamed: 1": NaN
+    "Windows": 81.34,
+    "OS X": 10.09,
+    "Unknown": 6.42,
+    "Linux": 1.49,
+    "Chrome OS": 0.65,
+    "Other": 0.01
   },
   "2016-10": {
-    "Unnamed: 1": NaN
+    "Windows": 80.84,
+    "OS X": 10.88,
+    "Unknown": 6.14,
+    "Linux": 1.44,
+    "Chrome OS": 0.7
   },
   "2016-11": {
-    "Unnamed: 1": NaN
+    "Windows": 83.15,
+    "OS X": 11.14,
+    "Unknown": 3.43,
+    "Linux": 1.53,
+    "Chrome OS": 0.75,
+    "Other": 0.01
   },
   "2016-12": {
-    "Unnamed: 1": NaN
+    "Windows": 84.27,
+    "OS X": 11.0,
+    "Unknown": 2.42,
+    "Linux": 1.57,
+    "Chrome OS": 0.74,
+    "Other": 0.01
   },
   "2017-01": {
-    "Unnamed: 1": NaN
+    "Windows": 84.4,
+    "OS X": 11.2,
+    "Unknown": 2.07,
+    "Linux": 1.55,
+    "Chrome OS": 0.77,
+    "Other": 0.01
   },
   "2017-02": {
-    "Unnamed: 1": NaN
+    "Windows": 84.14,
+    "OS X": 11.6,
+    "Unknown": 1.9,
+    "Linux": 1.53,
+    "Chrome OS": 0.83,
+    "Other": 0.01
   },
   "2017-03": {
-    "Unnamed: 1": NaN
+    "Windows": 84.34,
+    "OS X": 11.68,
+    "Unknown": 1.59,
+    "Linux": 1.54,
+    "Chrome OS": 0.84,
+    "Other": 0.01
   },
   "2017-04": {
-    "Unnamed: 1": NaN
+    "Windows": 84.22,
+    "OS X": 11.61,
+    "Unknown": 1.73,
+    "Linux": 1.68,
+    "Chrome OS": 0.75,
+    "Other": 0.01
   },
   "2017-05": {
-    "Unnamed: 1": NaN
+    "Windows": 83.92,
+    "OS X": 11.76,
+    "Unknown": 1.83,
+    "Linux": 1.66,
+    "Chrome OS": 0.82,
+    "Other": 0.01
   },
   "2017-06": {
-    "Unnamed: 1": NaN
+    "Windows": 84.32,
+    "OS X": 11.59,
+    "Unknown": 1.78,
+    "Linux": 1.74,
+    "Chrome OS": 0.55,
+    "Other": 0.01
   },
   "2017-07": {
-    "Unnamed: 1": NaN
+    "Windows": 84.46,
+    "OS X": 11.32,
+    "Unknown": 1.97,
+    "Linux": 1.79,
+    "Chrome OS": 0.45,
+    "Other": 0.01
   },
   "2017-08": {
-    "Unnamed: 1": NaN
+    "Windows": 83.53,
+    "OS X": 11.95,
+    "Unknown": 2.15,
+    "Linux": 1.79,
+    "Chrome OS": 0.56,
+    "Other": 0.01
   },
   "2017-09": {
-    "Unnamed: 1": NaN
+    "Windows": 83.28,
+    "OS X": 12.15,
+    "Unknown": 2.06,
+    "Linux": 1.66,
+    "Chrome OS": 0.84,
+    "Other": 0.01
   },
   "2017-10": {
-    "Unnamed: 1": NaN
+    "Windows": 82.96,
+    "OS X": 12.98,
+    "Linux": 1.62,
+    "Unknown": 1.46,
+    "Chrome OS": 0.97,
+    "Other": 0.01
   },
   "2017-11": {
-    "Unnamed: 1": NaN
+    "Windows": 82.74,
+    "OS X": 13.23,
+    "Linux": 1.57,
+    "Unknown": 1.46,
+    "Chrome OS": 0.98,
+    "Other": 0.01
   },
   "2017-12": {
-    "Unnamed: 1": NaN
+    "Windows": 82.68,
+    "OS X": 13.06,
+    "Unknown": 1.8,
+    "Linux": 1.54,
+    "Chrome OS": 0.91,
+    "Other": 0.01
   },
   "2018-01": {
-    "Unnamed: 1": NaN
+    "Windows": 82.68,
+    "OS X": 12.8,
+    "Unknown": 2.17,
+    "Linux": 1.43,
+    "Chrome OS": 0.9,
+    "Other": 0.01
   },
   "2018-02": {
-    "Unnamed: 1": NaN
+    "Windows": 82.55,
+    "OS X": 12.37,
+    "Unknown": 2.61,
+    "Linux": 1.45,
+    "Chrome OS": 1.0,
+    "Other": 0.01
   },
   "2018-03": {
-    "Unnamed: 1": NaN
+    "Windows": 81.91,
+    "OS X": 12.51,
+    "Unknown": 3.07,
+    "Linux": 1.48,
+    "Chrome OS": 1.03,
+    "Other": 0.01
   },
   "2018-04": {
-    "Unnamed: 1": NaN
+    "Windows": 81.73,
+    "OS X": 13.18,
+    "Unknown": 2.45,
+    "Linux": 1.66,
+    "Chrome OS": 0.98,
+    "Other": 0.01
   },
   "2018-05": {
-    "Unnamed: 1": NaN
+    "Windows": 81.8,
+    "OS X": 13.36,
+    "Unknown": 2.01,
+    "Linux": 1.61,
+    "Chrome OS": 1.22,
+    "Other": 0.01
   },
   "2018-06": {
-    "Unnamed: 1": NaN
+    "Windows": 82.45,
+    "OS X": 12.98,
+    "Unknown": 2.09,
+    "Linux": 1.69,
+    "Chrome OS": 0.78,
+    "Other": 0.01
   },
   "2018-07": {
-    "Unnamed: 1": NaN
+    "Windows": 82.88,
+    "OS X": 12.52,
+    "Unknown": 2.37,
+    "Linux": 1.71,
+    "Chrome OS": 0.5,
+    "Other": 0.01
   },
   "2018-08": {
-    "Unnamed: 1": NaN
+    "Windows": 82.51,
+    "OS X": 12.65,
+    "Unknown": 2.48,
+    "Linux": 1.69,
+    "Chrome OS": 0.66,
+    "Other": 0.01
   },
   "2018-09": {
-    "Unnamed: 1": NaN
+    "Windows": 81.76,
+    "OS X": 13.49,
+    "Unknown": 1.99,
+    "Linux": 1.68,
+    "Chrome OS": 1.08,
+    "Other": 0.01
   },
   "2018-10": {
-    "Unnamed: 1": NaN
+    "Windows": 78.04,
+    "OS X": 13.73,
+    "Unknown": 5.44,
+    "Linux": 1.64,
+    "Chrome OS": 1.15,
+    "Other": 0.01
   },
   "2018-11": {
-    "Unnamed: 1": NaN
+    "Windows": 70.22,
+    "Unknown": 14.96,
+    "OS X": 12.25,
+    "Linux": 1.47,
+    "Chrome OS": 1.1,
+    "Other": 0.01
   },
   "2018-12": {
-    "Unnamed: 1": NaN
+    "Windows": 76.17,
+    "OS X": 12.33,
+    "Unknown": 8.46,
+    "Linux": 1.69,
+    "Chrome OS": 1.35,
+    "Other": 0.01
   },
   "2019-01": {
-    "Unnamed: 1": NaN
+    "Windows": 75.47,
+    "OS X": 12.33,
+    "Unknown": 9.41,
+    "Linux": 1.61,
+    "Chrome OS": 1.17,
+    "Other": 0.01
   },
   "2019-02": {
-    "Unnamed: 1": NaN
+    "Windows": 74.44,
+    "OS X": 13.22,
+    "Unknown": 9.51,
+    "Linux": 1.58,
+    "Chrome OS": 1.25
   },
   "2019-03": {
-    "Unnamed: 1": NaN
+    "Windows": 79.46,
+    "OS X": 14.35,
+    "Unknown": 3.2,
+    "Linux": 1.7,
+    "Chrome OS": 1.28
   },
   "2019-04": {
-    "Unnamed: 1": NaN
+    "Windows": 79.45,
+    "OS X": 14.05,
+    "Unknown": 3.62,
+    "Linux": 1.63,
+    "Chrome OS": 1.24,
+    "Other": 0.01
   },
   "2019-05": {
-    "Unnamed: 1": NaN
+    "Windows": 78.91,
+    "OS X": 13.89,
+    "Unknown": 4.3,
+    "Linux": 1.55,
+    "Chrome OS": 1.35,
+    "Other": 0.01
   },
   "2019-06": {
-    "Unnamed: 1": NaN
+    "Windows": 78.43,
+    "OS X": 13.53,
+    "Unknown": 5.66,
+    "Linux": 1.6,
+    "Chrome OS": 0.77,
+    "Other": 0.01
   },
   "2019-07": {
-    "Unnamed: 1": NaN
+    "Windows": 77.61,
+    "OS X": 13.17,
+    "Unknown": 7.03,
+    "Linux": 1.65,
+    "Chrome OS": 0.54,
+    "Other": 0.01
   },
   "2019-08": {
-    "Unnamed: 1": NaN
+    "Windows": 78.32,
+    "OS X": 13.22,
+    "Unknown": 5.87,
+    "Linux": 1.72,
+    "Chrome OS": 0.86
   },
   "2019-09": {
-    "Unnamed: 1": NaN
+    "Windows": 79.1,
+    "OS X": 14.37,
+    "Unknown": 3.31,
+    "Linux": 1.74,
+    "Chrome OS": 1.48
   },
   "2019-10": {
-    "Unnamed: 1": NaN
+    "Windows": 77.93,
+    "OS X": 15.93,
+    "Unknown": 2.79,
+    "Linux": 1.77,
+    "Chrome OS": 1.58
   },
   "2019-11": {
-    "Unnamed: 1": NaN
+    "Windows": 77.25,
+    "OS X": 16.73,
+    "Unknown": 2.65,
+    "Linux": 1.82,
+    "Chrome OS": 1.54
   },
   "2019-12": {
-    "Unnamed: 1": NaN
+    "Windows": 77.64,
+    "OS X": 16.46,
+    "Unknown": 2.59,
+    "Linux": 1.85,
+    "Chrome OS": 1.45
   },
   "2020-01": {
-    "Unnamed: 1": NaN
+    "Windows": 77.7,
+    "OS X": 17.04,
+    "Linux": 1.9,
+    "Unknown": 1.83,
+    "Chrome OS": 1.52
   },
   "2020-02": {
-    "Unnamed: 1": NaN
+    "Windows": 77.22,
+    "OS X": 17.7,
+    "Linux": 1.91,
+    "Unknown": 1.67,
+    "Chrome OS": 1.5
   },
   "2020-03": {
-    "Unnamed: 1": NaN
+    "Windows": 77.1,
+    "OS X": 18.34,
+    "Linux": 1.71,
+    "Unknown": 1.61,
+    "Chrome OS": 1.24
   },
   "2020-04": {
-    "Unnamed: 1": NaN
+    "Windows": 76.52,
+    "OS X": 18.99,
+    "Unknown": 1.75,
+    "Linux": 1.61,
+    "Chrome OS": 1.12
   },
   "2020-05": {
-    "Unnamed: 1": NaN
+    "Windows": 77.04,
+    "OS X": 18.38,
+    "Unknown": 1.83,
+    "Linux": 1.68,
+    "Chrome OS": 1.06
   },
   "2020-06": {
-    "Unnamed: 1": NaN
+    "Windows": 77.68,
+    "OS X": 17.76,
+    "Unknown": 2.06,
+    "Linux": 1.69,
+    "Chrome OS": 0.8
   },
   "2020-07": {
-    "Unnamed: 1": NaN
+    "Windows": 77.74,
+    "OS X": 17.07,
+    "Unknown": 2.67,
+    "Linux": 1.85,
+    "Chrome OS": 0.67
   },
   "2020-08": {
-    "Unnamed: 1": NaN
+    "Windows": 77.21,
+    "OS X": 16.97,
+    "Unknown": 3.09,
+    "Linux": 1.84,
+    "Chrome OS": 0.9
   },
   "2020-09": {
-    "Unnamed: 1": NaN
+    "Windows": 77.12,
+    "OS X": 17.57,
+    "Unknown": 2.05,
+    "Linux": 1.73,
+    "Chrome OS": 1.52
   },
   "2020-10": {
-    "Unnamed: 1": NaN
+    "Windows": 76.32,
+    "OS X": 17.65,
+    "Unknown": 2.92,
+    "Chrome OS": 1.58,
+    "Linux": 1.53
   },
   "2020-11": {
-    "Unnamed: 1": NaN
+    "Windows": 73.21,
+    "OS X": 16.54,
+    "Unknown": 6.51,
+    "Chrome OS": 1.92,
+    "Linux": 1.8,
+    "Other": 0.01
   },
   "2020-12": {
-    "Unnamed: 1": NaN
+    "Windows": 76.56,
+    "OS X": 17.1,
+    "Unknown": 2.68,
+    "Linux": 1.93,
+    "Chrome OS": 1.72,
+    "Other": 0.01
   },
   "2021-01": {
-    "Unnamed: 1": NaN
+    "Windows": 76.26,
+    "OS X": 16.91,
+    "Unknown": 3.0,
+    "Linux": 1.91,
+    "Chrome OS": 1.91,
+    "Other": 0.01
   },
   "2021-02": {
-    "Unnamed: 1": NaN
+    "Windows": 75.89,
+    "OS X": 16.74,
+    "Unknown": 3.4,
+    "Chrome OS": 1.99,
+    "Linux": 1.98,
+    "Other": 0.01
   },
   "2021-03": {
-    "Unnamed: 1": NaN
+    "Windows": 75.56,
+    "OS X": 16.48,
+    "Unknown": 3.9,
+    "Chrome OS": 2.09,
+    "Linux": 1.97,
+    "Other": 0.01
   },
   "2021-04": {
-    "Unnamed: 1": NaN
+    "Windows": 74.94,
+    "OS X": 16.02,
+    "Unknown": 4.81,
+    "Linux": 2.18,
+    "Chrome OS": 2.04,
+    "Other": 0.01
   },
   "2021-05": {
-    "Unnamed: 1": NaN
+    "Windows": 73.54,
+    "OS X": 15.87,
+    "Unknown": 5.93,
+    "Linux": 2.38,
+    "Chrome OS": 2.27,
+    "Other": 0.01
   },
   "2021-06": {
-    "Unnamed: 1": NaN
+    "Windows": 72.98,
+    "OS X": 15.56,
+    "Unknown": 7.27,
+    "Linux": 2.68,
+    "Chrome OS": 1.51,
+    "Other": 0.01
   },
   "2021-07": {
-    "Unnamed: 1": NaN
+    "Windows": 73.04,
+    "OS X": 15.43,
+    "Unknown": 7.93,
+    "Linux": 2.38,
+    "Chrome OS": 1.21,
+    "Other": 0.01
   },
   "2021-08": {
-    "Unnamed: 1": NaN
+    "Windows": 76.12,
+    "OS X": 16.14,
+    "Unknown": 3.61,
+    "Linux": 2.38,
+    "Chrome OS": 1.74,
+    "Other": 0.01
   },
   "2021-09": {
-    "Unnamed: 1": NaN
+    "Windows": 75.4,
+    "OS X": 15.93,
+    "Unknown": 3.74,
+    "Chrome OS": 2.59,
+    "Linux": 2.33,
+    "Other": 0.01
   },
   "2021-10": {
-    "Unnamed: 1": NaN
+    "Windows": 75.18,
+    "OS X": 15.89,
+    "Unknown": 4.23,
+    "Chrome OS": 2.54,
+    "Linux": 2.15,
+    "Other": 0.01
   },
   "2021-11": {
-    "Unnamed: 1": NaN
+    "Windows": 74.28,
+    "OS X": 16.04,
+    "Unknown": 4.99,
+    "Chrome OS": 2.6,
+    "Linux": 2.08,
+    "Other": 0.01
   },
   "2021-12": {
-    "Unnamed: 1": NaN
+    "Windows": 73.72,
+    "OS X": 15.33,
+    "Unknown": 6.67,
+    "Chrome OS": 2.18,
+    "Linux": 2.09,
+    "Other": 0.01
   },
   "2022-01": {
-    "Unnamed: 1": NaN
+    "Windows": 75.5,
+    "OS X": 15.85,
+    "Unknown": 3.86,
+    "Chrome OS": 2.6,
+    "Linux": 2.19,
+    "Other": 0.01
   },
   "2022-02": {
-    "Unnamed: 1": NaN
+    "Windows": 75.85,
+    "OS X": 15.76,
+    "Unknown": 3.31,
+    "Chrome OS": 2.87,
+    "Linux": 2.19,
+    "Other": 0.01
   },
   "2022-03": {
-    "Unnamed: 1": NaN
+    "Windows": 75.7,
+    "OS X": 15.32,
+    "Unknown": 3.83,
+    "Chrome OS": 2.79,
+    "Linux": 2.36,
+    "Other": 0.01
   },
   "2022-04": {
-    "Unnamed: 1": NaN
+    "Windows": 74.79,
+    "OS X": 15.38,
+    "Unknown": 4.97,
+    "Linux": 2.49,
+    "Chrome OS": 2.36,
+    "Other": 0.01
   },
   "2022-05": {
-    "Unnamed: 1": NaN
+    "Windows": 75.54,
+    "OS X": 14.98,
+    "Unknown": 4.81,
+    "Linux": 2.45,
+    "Chrome OS": 2.22,
+    "Other": 0.01
   },
   "2022-06": {
-    "Unnamed: 1": NaN
+    "Windows": 76.33,
+    "OS X": 14.64,
+    "Unknown": 4.88,
+    "Linux": 2.42,
+    "Chrome OS": 1.71,
+    "Other": 0.01
   },
   "2022-07": {
-    "Unnamed: 1": NaN
+    "Windows": 75.21,
+    "OS X": 14.51,
+    "Unknown": 6.0,
+    "Linux": 2.76,
+    "Chrome OS": 1.5,
+    "Other": 0.01
   },
   "2022-08": {
-    "Unnamed: 1": NaN
+    "Windows": 74.73,
+    "OS X": 14.39,
+    "Unknown": 6.19,
+    "Linux": 2.8,
+    "Chrome OS": 1.88,
+    "Other": 0.01
   },
   "2022-09": {
-    "Unnamed: 1": NaN
+    "Windows": 75.06,
+    "OS X": 14.86,
+    "Unknown": 4.86,
+    "Linux": 2.8,
+    "Chrome OS": 2.41,
+    "Other": 0.01
   },
   "2022-10": {
-    "Unnamed: 1": NaN
+    "Windows": 75.96,
+    "OS X": 15.7,
+    "Unknown": 3.34,
+    "Linux": 2.6,
+    "Chrome OS": 2.38,
+    "Other": 0.01
   },
   "2022-11": {
-    "Unnamed: 1": NaN
+    "Windows": 75.11,
+    "OS X": 15.6,
+    "Unknown": 4.03,
+    "Linux": 2.77,
+    "Chrome OS": 2.48,
+    "Other": 0.01
   },
   "2022-12": {
-    "Unnamed: 1": NaN
+    "Windows": 75.34,
+    "OS X": 14.66,
+    "Unknown": 4.78,
+    "Linux": 2.93,
+    "Chrome OS": 2.28,
+    "Other": 0.01
   },
   "2023-01": {
-    "Unnamed: 1": NaN
+    "Windows": 74.14,
+    "OS X": 15.33,
+    "Unknown": 5.27,
+    "Linux": 2.91,
+    "Chrome OS": 2.35,
+    "Other": 0.01
   },
   "2023-02": {
-    "Unnamed: 1": NaN
+    "Windows": 71.78,
+    "OS X": 16.26,
+    "Unknown": 6.12,
+    "Linux": 2.94,
+    "Chrome OS": 2.9,
+    "Other": 0.01
   },
   "2023-03": {
-    "Unnamed: 1": NaN
+    "Windows": 69.4,
+    "OS X": 17.21,
+    "Unknown": 7.3,
+    "Chrome OS": 3.23,
+    "Linux": 2.85,
+    "Other": 0.01
   },
   "2023-04": {
-    "Unnamed: 1": NaN
+    "Windows": 62.65,
+    "OS X": 17.79,
+    "Unknown": 13.0,
+    "Chrome OS": 3.72,
+    "Linux": 2.83,
+    "Other": 0.01
   },
   "2023-05": {
-    "Unnamed: 1": NaN
+    "Windows": 62.06,
+    "OS X": 18.96,
+    "Unknown": 12.69,
+    "Chrome OS": 3.59,
+    "Linux": 2.7,
+    "Other": 0.01
   },
   "2023-06": {
-    "Unnamed: 1": NaN
+    "Windows": 68.23,
+    "OS X": 21.32,
+    "Chrome OS": 4.13,
+    "Unknown": 3.24,
+    "Linux": 3.07,
+    "Other": 0.01
   },
   "2023-07": {
-    "Unnamed: 1": NaN
+    "Windows": 69.52,
+    "OS X": 20.42,
+    "Unknown": 3.69,
+    "Chrome OS": 3.24,
+    "Linux": 3.12,
+    "Other": 0.01
   },
   "2023-08": {
-    "Unnamed: 1": NaN
+    "Windows": 69.26,
+    "OS X": 20.18,
+    "Unknown": 4.02,
+    "Chrome OS": 3.34,
+    "Linux": 3.18,
+    "Other": 0.01
   },
   "2023-09": {
-    "Unnamed: 1": NaN
+    "Windows": 68.41,
+    "OS X": 20.15,
+    "Unknown": 4.52,
+    "Chrome OS": 3.89,
+    "Linux": 3.02,
+    "Other": 0.01
   },
   "2023-10": {
-    "Unnamed: 1": NaN
+    "Windows": 68.87,
+    "OS X": 20.34,
+    "Chrome OS": 4.1,
+    "Unknown": 3.75,
+    "Linux": 2.92,
+    "Other": 0.01
   },
   "2023-11": {
-    "Unnamed: 1": NaN
+    "Windows": 69.02,
+    "OS X": 21.01,
+    "Chrome OS": 3.71,
+    "Linux": 3.22,
+    "Unknown": 3.03,
+    "Other": 0.01
   },
   "2023-12": {
-    "Unnamed: 1": NaN
+    "Windows": 72.72,
+    "OS X": 16.38,
+    "Unknown": 4.64,
+    "Linux": 3.83,
+    "Chrome OS": 2.42,
+    "Other": 0.01
   },
   "2024-01": {
-    "Unnamed: 1": NaN
+    "Windows": 73.0,
+    "OS X": 16.11,
+    "Unknown": 5.33,
+    "Linux": 3.77,
+    "Chrome OS": 1.78,
+    "Other": 0.01
   },
   "2024-02": {
-    "Unnamed: 1": NaN
+    "Windows": 72.17,
+    "OS X": 15.42,
+    "Unknown": 6.1,
+    "Linux": 4.03,
+    "Chrome OS": 2.27,
+    "Other": 0.01
   },
   "2024-03": {
-    "Unnamed: 1": NaN
+    "Windows": 72.47,
+    "OS X": 14.68,
+    "Unknown": 6.52,
+    "Linux": 4.05,
+    "Chrome OS": 2.27,
+    "Other": 0.01
   },
   "2024-04": {
-    "Unnamed: 1": NaN
+    "Windows": 73.5,
+    "OS X": 14.7,
+    "Unknown": 5.34,
+    "Linux": 3.88,
+    "Chrome OS": 2.56,
+    "Other": 0.01
   },
   "2024-05": {
-    "Unnamed: 1": NaN
+    "Windows": 73.84,
+    "OS X": 14.9,
+    "Unknown": 4.87,
+    "Linux": 3.79,
+    "Chrome OS": 2.6,
+    "Other": 0.01
   }
 }
