@@ -3272,10 +3272,11 @@
     "OS X": 5.64,
     "Unknown": 1.96,
     "Linux": 1.44,
-    "Chrome OS": 0.97,
+    "Chrome OS": 0.96,
     "Samsung": 0.23,
     "KaiOS": 0.09,
     "Xbox": 0.03,
     "Playstation": 0.01
-  }
+  },
+  "2024-06": {}
 }
