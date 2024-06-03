@@ -2880,10 +2880,10 @@
     "Linux": 0.01
   },
   "2024-06": {
-    "Android": 71.73,
-    "iOS": 27.54,
+    "Android": 71.51,
+    "iOS": 27.78,
     "Samsung": 0.4,
-    "Unknown": 0.15,
+    "Unknown": 0.14,
     "KaiOS": 0.13,
     "Windows": 0.02,
     "Nokia Unknown": 0.01,
