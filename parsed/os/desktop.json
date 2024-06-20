@@ -1508,9 +1508,9 @@
   },
   "2024-06": {
     "Windows": 73.16,
-    "OS X": 15.08,
-    "Unknown": 5.78,
-    "Linux": 3.92,
+    "OS X": 15.06,
+    "Unknown": 5.8,
+    "Linux": 3.93,
     "Chrome OS": 2.05,
     "Other": 0.01
   }
