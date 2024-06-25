@@ -1507,11 +1507,11 @@
     "Other": 0.01
   },
   "2024-06": {
-    "Windows": 72.92,
-    "OS X": 15.04,
-    "Unknown": 6.01,
+    "Windows": 72.94,
+    "OS X": 15.02,
+    "Unknown": 6.02,
     "Linux": 3.99,
-    "Chrome OS": 2.04,
+    "Chrome OS": 2.02,
     "Other": 0.01
   }
 }
