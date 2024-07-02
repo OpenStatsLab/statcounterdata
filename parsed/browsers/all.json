@@ -5469,5 +5469,29 @@
     "Chromium": 0.01,
     "Sony PS4": 0.01
   },
-  "2024-07": {}
+  "2024-07": {
+    "Chrome": 66.26,
+    "Safari": 17.52,
+    "Edge": 5.52,
+    "Firefox": 2.74,
+    "Samsung Internet": 2.49,
+    "Opera": 2.06,
+    "UC Browser": 0.95,
+    "Android": 0.53,
+    "QQ Browser": 0.48,
+    "Yandex Browser": 0.41,
+    "360 Safe Browser": 0.41,
+    "IE": 0.14,
+    "Whale Browser": 0.11,
+    "Coc Coc": 0.09,
+    "KaiOS": 0.07,
+    "Sogou Explorer": 0.05,
+    "Other": 0.04,
+    "Mozilla": 0.03,
+    "Edge Legacy": 0.02,
+    "Unknown": 0.02,
+    "Puffin": 0.02,
+    "Sony PS4": 0.01,
+    "Instabridge": 0.01
+  }
 }
