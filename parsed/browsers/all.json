@@ -5470,10 +5470,10 @@
     "Sony PS4": 0.01
   },
   "2024-07": {
-    "Chrome": 65.56,
+    "Chrome": 65.55,
     "Safari": 18.23,
-    "Edge": 5.26,
-    "Firefox": 2.74,
+    "Edge": 5.27,
+    "Firefox": 2.75,
     "Samsung Internet": 2.58,
     "Opera": 2.07,
     "UC Browser": 1.03,
@@ -5489,9 +5489,9 @@
     "Other": 0.04,
     "Edge Legacy": 0.03,
     "Mozilla": 0.03,
+    "Instabridge": 0.03,
     "Unknown": 0.02,
     "Puffin": 0.02,
-    "Instabridge": 0.02,
     "Chromium": 0.01,
     "Sony PS4": 0.01
   }
