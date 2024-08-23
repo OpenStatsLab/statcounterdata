@@ -3306,14 +3306,14 @@
   },
   "2024-08": {
     "Android": 44.98,
-    "Windows": 25.56,
-    "iOS": 18.47,
+    "Windows": 25.62,
+    "iOS": 18.45,
     "OS X": 5.57,
-    "Unknown": 2.87,
-    "Linux": 1.65,
+    "Unknown": 2.83,
+    "Linux": 1.64,
     "Chrome OS": 0.57,
     "Samsung": 0.22,
-    "KaiOS": 0.06,
+    "KaiOS": 0.05,
     "Xbox": 0.02,
     "Playstation": 0.01
   }
