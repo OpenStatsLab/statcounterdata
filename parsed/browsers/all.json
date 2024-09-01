@@ -5496,11 +5496,11 @@
     "Sony PS4": 0.01
   },
   "2024-08": {
-    "Chrome": 65.18,
-    "Safari": 18.55,
-    "Edge": 5.26,
+    "Chrome": 65.2,
+    "Safari": 18.57,
+    "Edge": 5.24,
     "Firefox": 2.74,
-    "Samsung Internet": 2.56,
+    "Samsung Internet": 2.57,
     "Opera": 2.15,
     "UC Browser": 1.11,
     "Android": 0.51,
@@ -5519,5 +5519,6 @@
     "Puffin": 0.02,
     "Unknown": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2024-09": {}
 }
