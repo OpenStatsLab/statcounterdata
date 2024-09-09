@@ -2910,12 +2910,12 @@
     "Linux": 0.01
   },
   "2024-09": {
-    "Android": 72.12,
-    "iOS": 27.32,
-    "Samsung": 0.35,
+    "Android": 72.17,
+    "iOS": 27.26,
+    "Samsung": 0.36,
     "Unknown": 0.12,
     "KaiOS": 0.05,
-    "Windows": 0.02,
+    "Windows": 0.01,
     "Nokia Unknown": 0.01,
     "Linux": 0.01
   }
