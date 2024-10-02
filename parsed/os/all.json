@@ -3330,5 +3330,17 @@
     "Xbox": 0.02,
     "Playstation": 0.01
   },
-  "2024-10": {}
+  "2024-10": {
+    "Android": 43.97,
+    "Windows": 27.9,
+    "iOS": 17.66,
+    "OS X": 5.91,
+    "Unknown": 1.76,
+    "Linux": 1.69,
+    "Chrome OS": 0.85,
+    "Samsung": 0.21,
+    "Xbox": 0.03,
+    "KaiOS": 0.02,
+    "Playstation": 0.01
+  }
 }
