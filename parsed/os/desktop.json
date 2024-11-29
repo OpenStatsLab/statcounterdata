@@ -1547,11 +1547,11 @@
     "Other": 0.01
   },
   "2024-11": {
-    "Windows": 72.84,
-    "OS X": 15.5,
-    "Unknown": 5.33,
+    "Windows": 72.9,
+    "OS X": 15.44,
+    "Unknown": 5.34,
     "Linux": 4.02,
-    "Chrome OS": 2.31,
+    "Chrome OS": 2.29,
     "Other": 0.01
   }
 }
