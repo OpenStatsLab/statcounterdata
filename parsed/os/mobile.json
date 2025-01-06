@@ -2948,10 +2948,10 @@
     "Linux": 0.01
   },
   "2025-01": {
-    "Android": 71.97,
-    "iOS": 27.54,
-    "Samsung": 0.33,
-    "Unknown": 0.09,
+    "Android": 71.84,
+    "iOS": 27.66,
+    "Samsung": 0.34,
+    "Unknown": 0.1,
     "KaiOS": 0.03,
     "Windows": 0.01,
     "Linux": 0.01
