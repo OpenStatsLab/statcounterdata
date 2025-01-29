@@ -3370,11 +3370,11 @@
     "Playstation": 0.01
   },
   "2025-01": {
-    "Android": 46.28,
-    "Windows": 25.38,
-    "iOS": 18.13,
-    "OS X": 5.28,
-    "Unknown": 2.69,
+    "Android": 46.23,
+    "Windows": 25.43,
+    "iOS": 18.11,
+    "OS X": 5.3,
+    "Unknown": 2.68,
     "Linux": 1.32,
     "Chrome OS": 0.67,
     "Samsung": 0.2,

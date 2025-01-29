@@ -1563,11 +1563,11 @@
     "Other": 0.01
   },
   "2025-01": {
-    "Windows": 71.97,
-    "OS X": 14.97,
-    "Unknown": 7.44,
-    "Linux": 3.71,
-    "Chrome OS": 1.89,
+    "Windows": 71.96,
+    "OS X": 15.01,
+    "Unknown": 7.42,
+    "Linux": 3.7,
+    "Chrome OS": 1.9,
     "Other": 0.01
   }
 }
