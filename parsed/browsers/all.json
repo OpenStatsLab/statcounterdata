@@ -5621,9 +5621,9 @@
     "Sony PS4": 0.01
   },
   "2025-01": {
-    "Chrome": 67.09,
-    "Safari": 17.96,
-    "Edge": 5.19,
+    "Chrome": 67.08,
+    "Safari": 17.95,
+    "Edge": 5.2,
     "Firefox": 2.54,
     "Samsung Internet": 2.24,
     "Opera": 2.11,
@@ -5631,7 +5631,7 @@
     "Android": 0.55,
     "Yandex Browser": 0.4,
     "360 Safe Browser": 0.3,
-    "QQ Browser": 0.28,
+    "QQ Browser": 0.27,
     "Coc Coc": 0.12,
     "Whale Browser": 0.1,
     "IE": 0.09,
