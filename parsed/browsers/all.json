@@ -5621,9 +5621,9 @@
     "Sony PS4": 0.01
   },
   "2025-01": {
-    "Chrome": 67.08,
-    "Safari": 17.95,
-    "Edge": 5.2,
+    "Chrome": 67.05,
+    "Safari": 17.96,
+    "Edge": 5.21,
     "Firefox": 2.54,
     "Samsung Internet": 2.24,
     "Opera": 2.11,
@@ -5644,5 +5644,6 @@
     "KaiOS": 0.02,
     "Unknown": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2025-02": {}
 }
