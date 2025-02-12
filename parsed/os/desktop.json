@@ -1571,10 +1571,10 @@
     "Other": 0.01
   },
   "2025-02": {
-    "Windows": 70.3,
-    "OS X": 15.87,
-    "Unknown": 8.08,
-    "Linux": 3.94,
-    "Chrome OS": 1.8
+    "Windows": 70.42,
+    "OS X": 15.79,
+    "Unknown": 8.04,
+    "Linux": 3.93,
+    "Chrome OS": 1.82
   }
 }
