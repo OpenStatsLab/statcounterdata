@@ -2966,9 +2966,9 @@
     "Linux": 0.01
   },
   "2025-03": {
-    "Android": 71.25,
-    "iOS": 28.31,
-    "Samsung": 0.26,
+    "Android": 71.2,
+    "iOS": 28.37,
+    "Samsung": 0.27,
     "Unknown": 0.12,
     "KaiOS": 0.02,
     "Windows": 0.01,
