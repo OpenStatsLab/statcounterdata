@@ -5671,14 +5671,14 @@
     "Sony PS4": 0.01
   },
   "2025-03": {
-    "Chrome": 65.91,
-    "Safari": 18.27,
-    "Edge": 5.03,
-    "Firefox": 2.52,
+    "Chrome": 65.88,
+    "Safari": 18.24,
+    "Edge": 5.09,
+    "Firefox": 2.53,
     "Samsung Internet": 2.26,
-    "Opera": 2.13,
+    "Opera": 2.12,
     "Android": 1.0,
-    "UC Browser": 0.83,
+    "UC Browser": 0.82,
     "Other": 0.42,
     "Yandex Browser": 0.36,
     "360 Safe Browser": 0.33,
@@ -5692,7 +5692,7 @@
     "Edge Legacy": 0.02,
     "Unknown": 0.02,
     "Puffin": 0.02,
-    "KaiOS": 0.02,
+    "KaiOS": 0.01,
     "Sony PS4": 0.01
   }
 }
