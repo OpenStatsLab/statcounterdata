@@ -3396,14 +3396,15 @@
     "Playstation": 0.01
   },
   "2025-03": {
-    "Android": 45.44,
-    "Windows": 25.81,
-    "iOS": 18.35,
-    "OS X": 5.64,
+    "Android": 45.3,
+    "Windows": 26.0,
+    "iOS": 18.28,
+    "OS X": 5.49,
     "Unknown": 2.47,
-    "Linux": 1.42,
-    "Chrome OS": 0.66,
+    "Linux": 1.43,
+    "Chrome OS": 0.67,
     "Samsung": 0.16,
+    "Other": 0.16,
     "KaiOS": 0.02,
     "Xbox": 0.02,
     "Playstation": 0.01
