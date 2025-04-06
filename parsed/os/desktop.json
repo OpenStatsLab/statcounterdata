@@ -1586,11 +1586,11 @@
     "Chrome OS": 1.86
   },
   "2025-04": {
-    "Windows": 71.59,
-    "OS X": 10.0,
-    "Unknown": 7.12,
-    "Other": 5.01,
-    "Linux": 4.12,
-    "Chrome OS": 2.16
+    "Windows": 71.31,
+    "OS X": 10.16,
+    "Unknown": 7.27,
+    "Other": 4.97,
+    "Linux": 4.26,
+    "Chrome OS": 2.03
   }
 }
