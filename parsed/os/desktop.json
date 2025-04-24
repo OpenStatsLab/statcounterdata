@@ -1587,10 +1587,10 @@
   },
   "2025-04": {
     "Windows": 71.33,
-    "OS X": 10.13,
-    "Unknown": 7.19,
-    "Other": 5.27,
-    "Linux": 4.25,
+    "OS X": 10.09,
+    "Unknown": 7.16,
+    "Other": 5.35,
+    "Linux": 4.23,
     "Chrome OS": 1.84
   }
 }
