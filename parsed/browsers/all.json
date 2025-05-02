@@ -5723,5 +5723,30 @@
     "KaiOS": 0.01,
     "Sony PS4": 0.01
   },
-  "2025-05": {}
+  "2025-05": {
+    "Chrome": 66.96,
+    "Safari": 16.87,
+    "Edge": 5.26,
+    "Firefox": 2.29,
+    "Samsung Internet": 2.16,
+    "Opera": 1.97,
+    "Android": 1.04,
+    "Other": 0.93,
+    "UC Browser": 0.86,
+    "Yandex Browser": 0.38,
+    "360 Safe Browser": 0.34,
+    "QQ Browser": 0.32,
+    "Coc Coc": 0.15,
+    "Whale Browser": 0.1,
+    "IE": 0.09,
+    "Mozilla": 0.09,
+    "Sogou Explorer": 0.03,
+    "Unknown": 0.03,
+    "Instabridge": 0.03,
+    "Edge Legacy": 0.02,
+    "Puffin": 0.02,
+    "KaiOS": 0.01,
+    "Sony PS4": 0.01,
+    "Pale Moon": 0.01
+  }
 }
