@@ -2984,13 +2984,12 @@
     "Linux": 0.01
   },
   "2025-05": {
-    "Android": 72.59,
-    "iOS": 27.04,
-    "Samsung": 0.2,
+    "Android": 72.34,
+    "iOS": 27.29,
+    "Samsung": 0.21,
     "Unknown": 0.11,
     "KaiOS": 0.02,
     "Windows": 0.01,
-    "Nokia Unknown": 0.01,
     "Linux": 0.01
   }
 }
