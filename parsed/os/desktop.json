@@ -1582,23 +1582,23 @@
     "OS X": 13.59,
     "Unknown": 6.78,
     "Linux": 3.98,
-    "Other": 2.11,
+    "macOS": 2.11,
     "Chrome OS": 1.86
   },
   "2025-04": {
     "Windows": 71.06,
     "OS X": 10.06,
     "Unknown": 7.19,
-    "Other": 5.58,
+    "macOS": 5.58,
     "Linux": 4.27,
     "Chrome OS": 1.84
   },
   "2025-05": {
-    "Windows": 69.97,
-    "OS X": 10.2,
-    "Unknown": 7.99,
-    "Other": 5.77,
-    "Linux": 4.08,
-    "Chrome OS": 1.99
+    "Windows": 70.04,
+    "OS X": 10.16,
+    "Unknown": 7.94,
+    "macOS": 5.8,
+    "Linux": 4.06,
+    "Chrome OS": 2.0
   }
 }
