@@ -5724,22 +5724,22 @@
     "Sony PS4": 0.01
   },
   "2025-05": {
-    "Chrome": 66.57,
-    "Safari": 17.33,
-    "Edge": 5.28,
-    "Firefox": 2.41,
-    "Samsung Internet": 2.14,
-    "Opera": 1.92,
+    "Chrome": 66.85,
+    "Safari": 17.19,
+    "Edge": 5.21,
+    "Firefox": 2.39,
+    "Samsung Internet": 2.12,
+    "Opera": 1.91,
     "Android": 1.01,
-    "Other": 0.88,
-    "UC Browser": 0.81,
-    "Yandex Browser": 0.41,
-    "360 Safe Browser": 0.35,
-    "QQ Browser": 0.3,
+    "Other": 0.87,
+    "UC Browser": 0.8,
+    "Yandex Browser": 0.4,
+    "360 Safe Browser": 0.34,
+    "QQ Browser": 0.29,
     "Coc Coc": 0.13,
     "IE": 0.11,
     "Whale Browser": 0.11,
-    "Mozilla": 0.09,
+    "Mozilla": 0.08,
     "Sogou Explorer": 0.03,
     "Instabridge": 0.03,
     "Pale Moon": 0.03,
@@ -5748,5 +5748,6 @@
     "Puffin": 0.02,
     "KaiOS": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2025-06": {}
 }
