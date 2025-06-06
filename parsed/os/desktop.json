@@ -1602,11 +1602,11 @@
     "Chrome OS": 1.83
   },
   "2025-06": {
-    "Windows": 69.63,
-    "OS X": 10.97,
-    "Unknown": 8.44,
-    "macOS": 5.43,
-    "Linux": 4.05,
+    "Windows": 70.06,
+    "OS X": 10.68,
+    "Unknown": 8.32,
+    "macOS": 5.44,
+    "Linux": 4.01,
     "Chrome OS": 1.48
   }
 }
