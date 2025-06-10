@@ -2993,12 +2993,12 @@
     "Linux": 0.01
   },
   "2025-06": {
-    "Android": 75.55,
-    "iOS": 24.13,
-    "Samsung": 0.19,
+    "Android": 76.57,
+    "iOS": 23.13,
+    "Samsung": 0.18,
     "Unknown": 0.09,
-    "KaiOS": 0.02,
     "Windows": 0.01,
-    "Linux": 0.01
+    "Linux": 0.01,
+    "KaiOS": 0.01
   }
 }
