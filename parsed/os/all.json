@@ -3438,13 +3438,13 @@
     "KaiOS": 0.01
   },
   "2025-06": {
-    "Android": 52.34,
-    "Windows": 22.34,
-    "iOS": 15.65,
-    "OS X": 3.31,
+    "Android": 52.28,
+    "Windows": 22.5,
+    "iOS": 15.56,
+    "OS X": 3.29,
     "Unknown": 2.75,
     "Other": 1.72,
-    "Linux": 1.29,
+    "Linux": 1.3,
     "Chrome OS": 0.44,
     "Samsung": 0.11,
     "Xbox": 0.02,
