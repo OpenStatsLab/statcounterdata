@@ -1603,10 +1603,10 @@
   },
   "2025-06": {
     "Windows": 70.39,
-    "OS X": 9.92,
-    "Unknown": 8.9,
-    "macOS": 5.44,
-    "Linux": 4.07,
-    "Chrome OS": 1.27
+    "OS X": 9.89,
+    "Unknown": 8.94,
+    "macOS": 5.45,
+    "Linux": 4.06,
+    "Chrome OS": 1.26
   }
 }
