@@ -3002,12 +3002,12 @@
     "Linux": 0.01
   },
   "2025-07": {
-    "Android": 71.62,
-    "iOS": 28.01,
+    "Android": 71.6,
+    "iOS": 28.02,
     "Samsung": 0.21,
     "Unknown": 0.12,
+    "KaiOS": 0.02,
     "Windows": 0.01,
-    "Linux": 0.01,
-    "KaiOS": 0.01
+    "Linux": 0.01
   }
 }
