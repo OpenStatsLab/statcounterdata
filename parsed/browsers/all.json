@@ -5802,12 +5802,12 @@
     "Sony PS4": 0.01
   },
   "2025-08": {
-    "Chrome": 68.61,
-    "Safari": 15.35,
-    "Edge": 5.12,
-    "Firefox": 2.32,
-    "Samsung Internet": 2.01,
-    "Opera": 1.86,
+    "Chrome": 68.67,
+    "Safari": 15.3,
+    "Edge": 5.14,
+    "Firefox": 2.31,
+    "Samsung Internet": 2.0,
+    "Opera": 1.85,
     "Android": 1.27,
     "Other": 0.9,
     "UC Browser": 0.83,
@@ -5823,8 +5823,8 @@
     "Unknown": 0.02,
     "Puffin": 0.02,
     "Instabridge": 0.02,
+    "Pale Moon": 0.02,
     "KaiOS": 0.01,
-    "Sony PS4": 0.01,
-    "Pale Moon": 0.01
+    "Sony PS4": 0.01
   }
 }
