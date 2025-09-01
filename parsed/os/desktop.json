@@ -1619,11 +1619,12 @@
     "Other": 0.01
   },
   "2025-08": {
-    "Windows": 69.75,
-    "Unknown": 11.48,
-    "OS X": 8.69,
-    "macOS": 4.79,
-    "Linux": 3.93,
-    "Chrome OS": 1.36
-  }
+    "Windows": 69.73,
+    "Unknown": 11.53,
+    "OS X": 8.68,
+    "macOS": 4.78,
+    "Linux": 3.92,
+    "Chrome OS": 1.35
+  },
+  "2025-09": {}
 }
