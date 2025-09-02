@@ -3479,5 +3479,18 @@
     "Playstation": 0.01,
     "KaiOS": 0.01
   },
-  "2025-09": {}
+  "2025-09": {
+    "Android": 45.16,
+    "Windows": 28.19,
+    "iOS": 14.99,
+    "Unknown": 4.65,
+    "OS X": 3.22,
+    "macOS": 1.82,
+    "Linux": 1.36,
+    "Chrome OS": 0.47,
+    "Samsung": 0.11,
+    "Xbox": 0.02,
+    "Playstation": 0.01,
+    "KaiOS": 0.01
+  }
 }
