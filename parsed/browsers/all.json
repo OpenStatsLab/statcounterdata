@@ -5829,16 +5829,16 @@
   },
   "2025-09": {
     "Chrome": 70.85,
-    "Safari": 13.97,
-    "Edge": 4.93,
-    "Firefox": 2.2,
-    "Samsung Internet": 1.92,
-    "Opera": 1.73,
-    "Android": 1.21,
+    "Safari": 14.12,
+    "Edge": 4.81,
+    "Firefox": 2.18,
+    "Samsung Internet": 1.94,
+    "Opera": 1.74,
+    "Android": 1.16,
     "Other": 0.85,
-    "UC Browser": 0.67,
-    "Yandex Browser": 0.41,
-    "IE": 0.38,
+    "UC Browser": 0.68,
+    "Yandex Browser": 0.4,
+    "IE": 0.39,
     "360 Safe Browser": 0.29,
     "QQ Browser": 0.25,
     "Whale Browser": 0.09,
@@ -5848,9 +5848,9 @@
     "Edge Legacy": 0.02,
     "Unknown": 0.02,
     "Instabridge": 0.02,
-    "Pale Moon": 0.02,
     "Puffin": 0.01,
     "KaiOS": 0.01,
-    "Sony PS4": 0.01
+    "Sony PS4": 0.01,
+    "Pale Moon": 0.01
   }
 }
