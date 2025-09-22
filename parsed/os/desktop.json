@@ -1627,11 +1627,11 @@
     "Chrome OS": 1.35
   },
   "2025-09": {
-    "Windows": 70.81,
-    "Unknown": 11.42,
-    "OS X": 8.16,
-    "macOS": 4.57,
-    "Linux": 3.39,
-    "Chrome OS": 1.64
+    "Windows": 70.94,
+    "Unknown": 11.38,
+    "OS X": 8.14,
+    "macOS": 4.55,
+    "Linux": 3.37,
+    "Chrome OS": 1.61
   }
 }
