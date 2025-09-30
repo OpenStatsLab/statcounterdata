@@ -3020,11 +3020,11 @@
     "Linux": 0.01
   },
   "2025-09": {
-    "Android": 75.22,
-    "iOS": 24.4,
+    "Android": 75.18,
+    "iOS": 24.44,
     "Samsung": 0.2,
     "Unknown": 0.13,
-    "KaiOS": 0.02,
+    "KaiOS": 0.03,
     "Windows": 0.01,
     "Linux": 0.01
   }
