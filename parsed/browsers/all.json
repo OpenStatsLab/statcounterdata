@@ -5828,13 +5828,13 @@
     "Sony PS4": 0.01
   },
   "2025-09": {
-    "Chrome": 71.77,
-    "Safari": 13.9,
+    "Chrome": 71.86,
+    "Safari": 13.86,
     "Edge": 4.67,
     "Firefox": 2.17,
     "Samsung Internet": 1.86,
-    "Opera": 1.74,
-    "Android": 1.05,
+    "Opera": 1.73,
+    "Android": 1.03,
     "Other": 0.83,
     "UC Browser": 0.6,
     "Yandex Browser": 0.38,
@@ -5852,5 +5852,6 @@
     "KaiOS": 0.01,
     "Sony PS4": 0.01,
     "Pale Moon": 0.01
-  }
+  },
+  "2025-10": {}
 }
