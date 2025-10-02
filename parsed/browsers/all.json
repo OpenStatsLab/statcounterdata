@@ -5853,5 +5853,30 @@
     "Sony PS4": 0.01,
     "Pale Moon": 0.01
   },
-  "2025-10": {}
+  "2025-10": {
+    "Chrome": 73.61,
+    "Safari": 13.02,
+    "Edge": 4.65,
+    "Firefox": 2.22,
+    "Opera": 1.74,
+    "Samsung Internet": 1.66,
+    "Other": 0.76,
+    "Android": 0.57,
+    "UC Browser": 0.51,
+    "Yandex Browser": 0.37,
+    "360 Safe Browser": 0.23,
+    "QQ Browser": 0.21,
+    "IE": 0.16,
+    "Whale Browser": 0.06,
+    "Coc Coc": 0.05,
+    "Mozilla": 0.05,
+    "Sogou Explorer": 0.02,
+    "Unknown": 0.02,
+    "Edge Legacy": 0.01,
+    "Puffin": 0.01,
+    "KaiOS": 0.01,
+    "Sony PS4": 0.01,
+    "Instabridge": 0.01,
+    "Pale Moon": 0.01
+  }
 }
