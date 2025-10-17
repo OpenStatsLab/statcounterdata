@@ -3494,17 +3494,17 @@
     "Xbox": 0.01
   },
   "2025-10": {
-    "Android": 36.06,
-    "Windows": 34.37,
-    "iOS": 13.56,
-    "OS X": 7.77,
-    "Unknown": 4.57,
-    "macOS": 1.73,
+    "Android": 36.0,
+    "Windows": 34.49,
+    "iOS": 13.57,
+    "OS X": 7.65,
+    "Unknown": 4.59,
+    "macOS": 1.74,
     "Linux": 1.24,
     "Chrome OS": 0.57,
     "Samsung": 0.1,
+    "KaiOS": 0.02,
     "Playstation": 0.01,
-    "KaiOS": 0.01,
     "Xbox": 0.01
   }
 }
