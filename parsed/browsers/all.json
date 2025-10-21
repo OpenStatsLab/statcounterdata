@@ -5861,11 +5861,11 @@
     "Pale Moon": 0.01
   },
   "2025-10": {
-    "Chrome": 74.09,
-    "Safari": 12.9,
-    "Edge": 4.36,
+    "Chrome": 74.13,
+    "Safari": 12.87,
+    "Edge": 4.37,
     "Firefox": 2.13,
-    "Opera": 1.72,
+    "Opera": 1.71,
     "Samsung Internet": 1.68,
     "Brave": 0.7,
     "Android": 0.63,
@@ -5880,10 +5880,10 @@
     "Sogou Explorer": 0.03,
     "Other": 0.03,
     "Unknown": 0.02,
-    "KaiOS": 0.02,
     "Instabridge": 0.02,
     "Edge Legacy": 0.01,
     "Puffin": 0.01,
+    "KaiOS": 0.01,
     "Sony PS4": 0.01,
     "Pale Moon": 0.01
   }
