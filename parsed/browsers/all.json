@@ -5861,14 +5861,14 @@
     "Pale Moon": 0.01
   },
   "2025-10": {
-    "Chrome": 73.96,
-    "Safari": 12.93,
-    "Edge": 4.44,
-    "Firefox": 2.15,
+    "Chrome": 73.85,
+    "Safari": 12.97,
+    "Edge": 4.47,
+    "Firefox": 2.16,
     "Opera": 1.71,
-    "Samsung Internet": 1.68,
+    "Samsung Internet": 1.69,
     "Brave": 0.71,
-    "Android": 0.63,
+    "Android": 0.64,
     "UC Browser": 0.53,
     "Yandex Browser": 0.38,
     "360 Safe Browser": 0.25,
@@ -5881,10 +5881,10 @@
     "Other": 0.03,
     "Unknown": 0.02,
     "Instabridge": 0.02,
+    "Pale Moon": 0.02,
     "Edge Legacy": 0.01,
     "Puffin": 0.01,
     "KaiOS": 0.01,
-    "Sony PS4": 0.01,
-    "Pale Moon": 0.01
+    "Sony PS4": 0.01
   }
 }
