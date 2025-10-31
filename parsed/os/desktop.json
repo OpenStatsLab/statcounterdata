@@ -1619,27 +1619,27 @@
     "Other": 0.01
   },
   "2025-08": {
-    "Windows": 69.73,
-    "Unknown": 11.53,
-    "OS X": 8.68,
-    "macOS": 4.78,
-    "Linux": 3.92,
-    "Chrome OS": 1.35
+    "Windows": 69.42,
+    "Unknown": 11.65,
+    "OS X": 8.77,
+    "macOS": 4.83,
+    "Linux": 3.96,
+    "Chrome OS": 1.37
   },
   "2025-09": {
-    "Windows": 72.39,
-    "Unknown": 10.72,
-    "OS X": 7.88,
-    "macOS": 4.33,
-    "Linux": 3.16,
-    "Chrome OS": 1.53
+    "Windows": 70.81,
+    "Unknown": 11.33,
+    "OS X": 8.33,
+    "macOS": 4.57,
+    "Linux": 3.34,
+    "Chrome OS": 1.62
   },
   "2025-10": {
-    "Windows": 70.23,
-    "OS X": 12.68,
-    "Unknown": 9.72,
-    "macOS": 3.63,
-    "Linux": 2.57,
-    "Chrome OS": 1.17
+    "Windows": 66.14,
+    "OS X": 14.27,
+    "Unknown": 11.15,
+    "macOS": 4.15,
+    "Linux": 2.94,
+    "Chrome OS": 1.34
   }
 }
