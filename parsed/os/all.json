@@ -3495,16 +3495,17 @@
   },
   "2025-10": {
     "Android": 38.44,
-    "Windows": 30.79,
-    "iOS": 14.77,
-    "OS X": 6.64,
-    "Unknown": 5.26,
-    "macOS": 1.93,
+    "Windows": 30.86,
+    "iOS": 14.75,
+    "OS X": 6.55,
+    "Unknown": 5.29,
+    "macOS": 1.95,
     "Linux": 1.38,
     "Chrome OS": 0.62,
     "Samsung": 0.11,
     "KaiOS": 0.02,
     "Playstation": 0.01,
     "Xbox": 0.01
-  }
+  },
+  "2025-11": {}
 }

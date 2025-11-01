@@ -5861,11 +5861,11 @@
     "Pale Moon": 0.01
   },
   "2025-10": {
-    "Chrome": 73.22,
+    "Chrome": 73.17,
     "Safari": 13.27,
-    "Edge": 4.61,
-    "Firefox": 2.2,
-    "Opera": 1.75,
+    "Edge": 4.62,
+    "Firefox": 2.21,
+    "Opera": 1.76,
     "Samsung Internet": 1.74,
     "Brave": 0.73,
     "Android": 0.67,
@@ -5886,5 +5886,6 @@
     "Edge Legacy": 0.01,
     "Puffin": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2025-11": {}
 }
