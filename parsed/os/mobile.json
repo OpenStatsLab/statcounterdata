@@ -3038,8 +3038,8 @@
     "Linux": 0.01
   },
   "2025-11": {
-    "Android": 72.05,
-    "iOS": 27.51,
+    "Android": 72.0,
+    "iOS": 27.56,
     "Samsung": 0.24,
     "Unknown": 0.13,
     "KaiOS": 0.04,
