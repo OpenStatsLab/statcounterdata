@@ -3511,13 +3511,14 @@
     "Android": 37.3,
     "Windows": 33.49,
     "iOS": 14.74,
-    "Unknown": 5.98,
-    "OS X": 3.83,
-    "macOS": 2.43,
+    "Unknown": 5.99,
+    "OS X": 3.85,
+    "macOS": 2.41,
     "Linux": 1.44,
-    "Chrome OS": 0.62,
+    "Chrome OS": 0.63,
     "Samsung": 0.12,
     "KaiOS": 0.02,
-    "Playstation": 0.01
+    "Playstation": 0.01,
+    "Xbox": 0.01
   }
 }
