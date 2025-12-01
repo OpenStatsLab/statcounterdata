@@ -5888,12 +5888,12 @@
     "Sony PS4": 0.01
   },
   "2025-11": {
-    "Chrome": 71.22,
-    "Safari": 14.35,
-    "Edge": 4.98,
-    "Firefox": 2.3,
+    "Chrome": 71.17,
+    "Safari": 14.41,
+    "Edge": 4.96,
+    "Firefox": 2.29,
     "Opera": 1.89,
-    "Samsung Internet": 1.86,
+    "Samsung Internet": 1.87,
     "Brave": 0.79,
     "Android": 0.66,
     "UC Browser": 0.56,
@@ -5913,5 +5913,6 @@
     "Pale Moon": 0.02,
     "Edge Legacy": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2025-12": {}
 }
