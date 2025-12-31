@@ -5915,14 +5915,14 @@
     "Sony PS4": 0.01
   },
   "2025-12": {
-    "Chrome": 71.15,
-    "Safari": 14.87,
-    "Edge": 4.62,
+    "Chrome": 71.23,
+    "Safari": 14.84,
+    "Edge": 4.6,
     "Firefox": 2.25,
     "Samsung Internet": 1.89,
     "Opera": 1.83,
-    "Android": 0.75,
     "Brave": 0.75,
+    "Android": 0.74,
     "UC Browser": 0.5,
     "Yandex Browser": 0.35,
     "360 Safe Browser": 0.28,
