@@ -3056,11 +3056,11 @@
     "Linux": 0.01
   },
   "2026-01": {
-    "Android": 70.83,
-    "iOS": 28.77,
+    "Android": 70.8,
+    "iOS": 28.79,
     "Samsung": 0.25,
     "Unknown": 0.1,
-    "KaiOS": 0.03,
+    "KaiOS": 0.02,
     "Windows": 0.01,
     "Linux": 0.01
   }
