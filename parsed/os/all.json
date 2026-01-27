@@ -3538,13 +3538,13 @@
   "2026-01": {
     "Android": 36.11,
     "Windows": 32.65,
-    "iOS": 15.52,
+    "iOS": 15.53,
     "Unknown": 7.35,
     "OS X": 3.38,
-    "macOS": 2.22,
-    "Linux": 2.01,
+    "macOS": 2.23,
+    "Linux": 1.99,
     "Chrome OS": 0.58,
-    "Samsung": 0.13,
+    "Samsung": 0.12,
     "Xbox": 0.02,
     "Playstation": 0.01,
     "KaiOS": 0.01
