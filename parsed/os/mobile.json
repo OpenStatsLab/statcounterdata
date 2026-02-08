@@ -3066,10 +3066,9 @@
   },
   "2026-02": {
     "Android": 70.01,
-    "iOS": 29.66,
-    "Samsung": 0.25,
+    "iOS": 29.67,
+    "Samsung": 0.24,
     "Unknown": 0.06,
-    "Windows": 0.01,
     "Linux": 0.01,
     "KaiOS": 0.01
   }
