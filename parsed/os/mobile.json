@@ -3065,10 +3065,10 @@
     "Linux": 0.01
   },
   "2026-02": {
-    "Android": 69.11,
-    "iOS": 30.6,
+    "Android": 68.92,
+    "iOS": 30.79,
     "Samsung": 0.22,
-    "Unknown": 0.05,
+    "Unknown": 0.04,
     "Linux": 0.01
   }
 }

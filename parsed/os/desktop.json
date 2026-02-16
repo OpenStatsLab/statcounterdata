@@ -1667,11 +1667,11 @@
     "Chrome OS": 1.22
   },
   "2026-02": {
-    "Windows": 68.88,
-    "Unknown": 15.49,
-    "OS X": 6.72,
-    "macOS": 4.67,
-    "Linux": 2.86,
-    "Chrome OS": 1.37
+    "Windows": 68.78,
+    "Unknown": 15.58,
+    "OS X": 6.78,
+    "macOS": 4.64,
+    "Linux": 2.85,
+    "Chrome OS": 1.35
   }
 }
