@@ -5969,12 +5969,12 @@
     "Instabridge": 0.01
   },
   "2026-02": {
-    "Chrome": 69.3,
-    "Safari": 16.29,
-    "Edge": 5.34,
-    "Firefox": 2.26,
+    "Chrome": 69.2,
+    "Safari": 16.32,
+    "Edge": 5.38,
+    "Firefox": 2.27,
     "Samsung Internet": 2.0,
-    "Opera": 1.76,
+    "Opera": 1.77,
     "Brave": 0.89,
     "UC Browser": 0.53,
     "Android": 0.41,
@@ -5987,10 +5987,10 @@
     "Other": 0.05,
     "Sogou Explorer": 0.04,
     "IE": 0.02,
-    "Edge Legacy": 0.02,
     "Unknown": 0.02,
     "Instabridge": 0.02,
     "Pale Moon": 0.02,
+    "Edge Legacy": 0.01,
     "Puffin": 0.01,
     "Sony PS4": 0.01
   }
