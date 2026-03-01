@@ -5969,17 +5969,17 @@
     "Instabridge": 0.01
   },
   "2026-02": {
-    "Chrome": 68.98,
-    "Safari": 16.39,
-    "Edge": 5.46,
+    "Chrome": 68.9,
+    "Safari": 16.46,
+    "Edge": 5.44,
     "Firefox": 2.29,
-    "Samsung Internet": 2.01,
-    "Opera": 1.78,
-    "Brave": 0.9,
+    "Samsung Internet": 2.02,
+    "Opera": 1.79,
+    "Brave": 0.91,
     "UC Browser": 0.54,
     "Android": 0.4,
     "Yandex Browser": 0.37,
-    "360 Safe Browser": 0.23,
+    "360 Safe Browser": 0.24,
     "QQ Browser": 0.21,
     "Coc Coc": 0.09,
     "Whale Browser": 0.08,
@@ -5993,5 +5993,6 @@
     "Edge Legacy": 0.01,
     "Puffin": 0.01,
     "Sony PS4": 0.01
-  }
+  },
+  "2026-03": {}
 }
