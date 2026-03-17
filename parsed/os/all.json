@@ -3563,14 +3563,14 @@
     "Playstation": 0.01
   },
   "2026-03": {
-    "Android": 37.78,
-    "Windows": 26.45,
-    "iOS": 18.88,
-    "Unknown": 8.55,
-    "OS X": 3.78,
-    "macOS": 2.35,
-    "Linux": 1.37,
-    "Chrome OS": 0.7,
+    "Android": 37.65,
+    "Windows": 26.63,
+    "iOS": 18.85,
+    "Unknown": 8.51,
+    "OS X": 3.79,
+    "macOS": 2.36,
+    "Linux": 1.38,
+    "Chrome OS": 0.71,
     "Samsung": 0.11,
     "Playstation": 0.01,
     "KaiOS": 0.01
