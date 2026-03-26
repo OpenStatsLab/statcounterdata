@@ -3074,12 +3074,12 @@
     "KaiOS": 0.01
   },
   "2026-03": {
-    "Android": 67.45,
-    "iOS": 32.29,
+    "Android": 67.47,
+    "iOS": 32.27,
     "Samsung": 0.2,
     "Unknown": 0.03,
-    "KaiOS": 0.02,
     "Windows": 0.01,
-    "Linux": 0.01
+    "Linux": 0.01,
+    "KaiOS": 0.01
   }
 }
