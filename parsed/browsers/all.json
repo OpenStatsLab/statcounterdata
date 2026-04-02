@@ -6021,5 +6021,31 @@
     "Sony PS4": 0.01,
     "Instabridge": 0.01
   },
-  "2026-04": {}
+  "2026-04": {
+    "Chrome": 67.32,
+    "Safari": 17.23,
+    "Edge": 6.06,
+    "Firefox": 2.33,
+    "Samsung Internet": 2.0,
+    "Opera": 1.87,
+    "Brave": 0.98,
+    "UC Browser": 0.64,
+    "Yandex Browser": 0.43,
+    "Android": 0.27,
+    "360 Safe Browser": 0.24,
+    "QQ Browser": 0.18,
+    "Coc Coc": 0.13,
+    "Whale Browser": 0.09,
+    "Mozilla": 0.05,
+    "Other": 0.05,
+    "Sogou Explorer": 0.03,
+    "Unknown": 0.03,
+    "Pale Moon": 0.02,
+    "IE": 0.01,
+    "Edge Legacy": 0.01,
+    "Puffin": 0.01,
+    "KaiOS": 0.01,
+    "Sony PS4": 0.01,
+    "Instabridge": 0.01
+  }
 }
