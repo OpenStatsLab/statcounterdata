@@ -3084,8 +3084,8 @@
   },
   "2026-04": {
     "Android": 67.75,
-    "iOS": 32.0,
-    "Samsung": 0.18,
+    "iOS": 32.01,
+    "Samsung": 0.19,
     "Unknown": 0.03,
     "Linux": 0.01,
     "KaiOS": 0.01
