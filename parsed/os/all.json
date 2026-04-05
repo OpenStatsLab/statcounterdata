@@ -3576,15 +3576,15 @@
     "KaiOS": 0.01
   },
   "2026-04": {
-    "Android": 38.37,
-    "Windows": 26.33,
-    "iOS": 18.58,
-    "Unknown": 8.51,
-    "OS X": 3.86,
-    "macOS": 2.07,
-    "Linux": 1.5,
-    "Chrome OS": 0.66,
-    "Samsung": 0.1,
+    "Android": 39.09,
+    "Windows": 25.24,
+    "iOS": 18.94,
+    "Unknown": 8.67,
+    "OS X": 3.88,
+    "macOS": 1.98,
+    "Linux": 1.46,
+    "Chrome OS": 0.6,
+    "Samsung": 0.11,
     "Playstation": 0.01,
     "KaiOS": 0.01
   }
