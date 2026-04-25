@@ -1683,11 +1683,11 @@
     "Chrome OS": 1.62
   },
   "2026-04": {
-    "Windows": 62.41,
-    "Unknown": 19.91,
-    "OS X": 8.54,
-    "macOS": 4.53,
-    "Linux": 3.09,
+    "Windows": 62.77,
+    "Unknown": 19.73,
+    "OS X": 8.43,
+    "macOS": 4.49,
+    "Linux": 3.06,
     "Chrome OS": 1.52
   }
 }
