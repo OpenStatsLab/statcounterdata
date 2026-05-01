@@ -6022,15 +6022,15 @@
     "Instabridge": 0.01
   },
   "2026-04": {
-    "Chrome": 67.97,
-    "Safari": 17.09,
-    "Edge": 5.52,
-    "Firefox": 2.25,
+    "Chrome": 68.02,
+    "Safari": 17.04,
+    "Edge": 5.53,
+    "Firefox": 2.26,
     "Samsung Internet": 1.99,
-    "Opera": 1.9,
+    "Opera": 1.89,
     "Brave": 0.94,
     "UC Browser": 0.62,
-    "Android": 0.46,
+    "Android": 0.47,
     "Yandex Browser": 0.36,
     "360 Safe Browser": 0.23,
     "QQ Browser": 0.19,
@@ -6047,5 +6047,6 @@
     "KaiOS": 0.01,
     "Sony PS4": 0.01,
     "Instabridge": 0.01
-  }
+  },
+  "2026-05": {}
 }
