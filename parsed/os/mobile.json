@@ -3091,9 +3091,10 @@
     "KaiOS": 0.01
   },
   "2026-05": {
-    "Android": 67.81,
+    "Android": 67.8,
     "iOS": 32.13,
     "Unknown": 0.03,
+    "Windows": 0.01,
     "Linux": 0.01,
     "KaiOS": 0.01
   }
