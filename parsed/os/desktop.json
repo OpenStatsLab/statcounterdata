@@ -1692,10 +1692,10 @@
   },
   "2026-05": {
     "Windows": 62.29,
-    "Unknown": 18.88,
-    "OS X": 10.12,
-    "macOS": 4.19,
+    "Unknown": 18.81,
+    "OS X": 10.19,
+    "macOS": 4.21,
     "Linux": 3.06,
-    "Chrome OS": 1.46
+    "Chrome OS": 1.45
   }
 }
