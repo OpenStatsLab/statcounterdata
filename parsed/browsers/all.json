@@ -6049,13 +6049,13 @@
     "Instabridge": 0.01
   },
   "2026-05": {
-    "Chrome": 70.25,
-    "Safari": 15.72,
-    "Edge": 5.14,
+    "Chrome": 70.3,
+    "Safari": 15.71,
+    "Edge": 5.1,
     "Firefox": 2.19,
     "Samsung Internet": 1.89,
     "Opera": 1.78,
-    "Brave": 0.85,
+    "Brave": 0.84,
     "UC Browser": 0.56,
     "Android": 0.51,
     "Yandex Browser": 0.28,
@@ -6074,5 +6074,6 @@
     "KaiOS": 0.01,
     "Sony PS4": 0.01,
     "Instabridge": 0.01
-  }
+  },
+  "2026-06": {}
 }
