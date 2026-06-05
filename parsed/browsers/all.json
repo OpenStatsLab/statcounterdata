@@ -6076,17 +6076,17 @@
     "Instabridge": 0.01
   },
   "2026-06": {
-    "Chrome": 71.37,
-    "Safari": 14.65,
-    "Edge": 5.3,
-    "Firefox": 2.32,
-    "Samsung Internet": 1.8,
-    "Opera": 1.64,
+    "Chrome": 71.24,
+    "Safari": 14.74,
+    "Edge": 5.32,
+    "Firefox": 2.31,
+    "Samsung Internet": 1.81,
+    "Opera": 1.67,
     "Brave": 0.8,
-    "Android": 0.6,
+    "Android": 0.58,
     "UC Browser": 0.53,
     "Yandex Browser": 0.25,
-    "360 Safe Browser": 0.2,
+    "360 Safe Browser": 0.19,
     "QQ Browser": 0.17,
     "Coc Coc": 0.12,
     "Mozilla": 0.05,
@@ -6095,10 +6095,10 @@
     "IE": 0.03,
     "Unknown": 0.03,
     "Sogou Explorer": 0.02,
+    "Pale Moon": 0.02,
     "Edge Legacy": 0.01,
     "Puffin": 0.01,
     "Sony PS4": 0.01,
-    "Instabridge": 0.01,
-    "Pale Moon": 0.01
+    "Instabridge": 0.01
   }
 }
