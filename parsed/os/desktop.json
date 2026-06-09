@@ -1699,11 +1699,11 @@
     "Chrome OS": 1.4
   },
   "2026-06": {
-    "Windows": 61.34,
-    "Unknown": 17.75,
-    "OS X": 12.08,
-    "macOS": 4.18,
-    "Linux": 3.5,
-    "Chrome OS": 1.14
+    "Windows": 61.29,
+    "Unknown": 17.85,
+    "OS X": 11.93,
+    "macOS": 4.23,
+    "Linux": 3.54,
+    "Chrome OS": 1.16
   }
 }
