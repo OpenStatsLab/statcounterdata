@@ -3603,14 +3603,14 @@
     "KaiOS": 0.01
   },
   "2026-06": {
-    "Android": 33.41,
-    "Windows": 30.95,
-    "iOS": 16.03,
-    "Unknown": 9.03,
-    "OS X": 6.02,
-    "macOS": 2.14,
+    "Android": 33.84,
+    "Windows": 30.42,
+    "iOS": 16.11,
+    "Unknown": 9.15,
+    "OS X": 5.93,
+    "macOS": 2.13,
     "Linux": 1.8,
-    "Chrome OS": 0.58,
+    "Chrome OS": 0.59,
     "Xbox": 0.02,
     "Playstation": 0.01
   }
