@@ -6076,14 +6076,14 @@
     "Instabridge": 0.01
   },
   "2026-06": {
-    "Chrome": 69.65,
-    "Safari": 15.31,
-    "Edge": 5.21,
-    "Firefox": 3.33,
+    "Chrome": 69.54,
+    "Safari": 15.33,
+    "Edge": 5.23,
+    "Firefox": 3.4,
     "Samsung Internet": 1.95,
     "Opera": 1.74,
     "Brave": 0.84,
-    "UC Browser": 0.61,
+    "UC Browser": 0.6,
     "Android": 0.35,
     "Yandex Browser": 0.24,
     "360 Safe Browser": 0.19,
@@ -6100,5 +6100,6 @@
     "Puffin": 0.01,
     "Sony PS4": 0.01,
     "Instabridge": 0.01
-  }
+  },
+  "2026-07": {}
 }
