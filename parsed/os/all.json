@@ -3615,15 +3615,15 @@
     "Playstation": 0.01
   },
   "2026-07": {
-    "Android": 33.73,
-    "Windows": 26.28,
-    "iOS": 17.34,
-    "Unknown": 10.74,
-    "OS X": 5.92,
-    "macOS": 2.84,
-    "Linux": 2.59,
+    "Android": 34.4,
+    "Windows": 25.81,
+    "iOS": 17.57,
+    "Unknown": 11.02,
+    "OS X": 5.34,
+    "macOS": 2.76,
+    "Linux": 2.55,
     "Chrome OS": 0.51,
-    "Xbox": 0.02,
+    "Xbox": 0.03,
     "Playstation": 0.01,
     "KaiOS": 0.01
   }
