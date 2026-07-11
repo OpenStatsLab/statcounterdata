@@ -1502,10 +1502,10 @@
     "Chrome OS": 1.54
   },
   "2026-07": {
-    "Windows": 70.12,
-    "OS X": 14.19,
-    "Linux": 7.24,
-    "macOS": 7.04,
-    "Chrome OS": 1.4
+    "Windows": 70.52,
+    "OS X": 14.16,
+    "Linux": 7.1,
+    "macOS": 6.83,
+    "Chrome OS": 1.38
   }
 }
