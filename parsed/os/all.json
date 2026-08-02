@@ -3421,5 +3421,16 @@
     "Playstation": 0.01,
     "KaiOS": 0.01
   },
-  "2026-08": {}
+  "2026-08": {
+    "Android": 44.5,
+    "Windows": 22.71,
+    "iOS": 21.31,
+    "macOS": 4.2,
+    "OS X": 4.11,
+    "Linux": 2.51,
+    "Chrome OS": 0.61,
+    "Xbox": 0.03,
+    "Playstation": 0.01,
+    "KaiOS": 0.01
+  }
 }
