@@ -3422,13 +3422,13 @@
     "KaiOS": 0.01
   },
   "2026-08": {
-    "Android": 44.5,
-    "Windows": 22.71,
-    "iOS": 21.31,
-    "macOS": 4.2,
-    "OS X": 4.11,
-    "Linux": 2.51,
-    "Chrome OS": 0.61,
+    "Android": 44.02,
+    "Windows": 22.14,
+    "iOS": 21.85,
+    "OS X": 4.23,
+    "macOS": 4.11,
+    "Linux": 2.98,
+    "Chrome OS": 0.62,
     "Xbox": 0.03,
     "Playstation": 0.01,
     "KaiOS": 0.01
