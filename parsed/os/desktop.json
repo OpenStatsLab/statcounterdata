@@ -1509,11 +1509,11 @@
     "Chrome OS": 1.47
   },
   "2026-08": {
-    "Windows": 64.98,
-    "OS X": 12.41,
-    "macOS": 12.07,
-    "Linux": 8.71,
-    "Chrome OS": 1.82,
+    "Windows": 65.77,
+    "OS X": 12.32,
+    "macOS": 12.04,
+    "Linux": 8.19,
+    "Chrome OS": 1.68,
     "Other": 0.01
   }
 }
