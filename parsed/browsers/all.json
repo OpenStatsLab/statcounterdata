@@ -6129,17 +6129,17 @@
     "Instabridge": 0.01
   },
   "2026-08": {
-    "Chrome": 69.39,
-    "Safari": 15.83,
-    "Edge": 5.36,
+    "Chrome": 69.28,
+    "Safari": 15.92,
+    "Edge": 5.39,
     "Firefox": 2.98,
-    "Samsung Internet": 2.01,
-    "Opera": 1.94,
+    "Samsung Internet": 2.02,
+    "Opera": 1.93,
     "UC Browser": 0.62,
     "Brave": 0.57,
-    "Yandex Browser": 0.27,
+    "Yandex Browser": 0.28,
     "Android": 0.24,
-    "360 Safe Browser": 0.19,
+    "360 Safe Browser": 0.2,
     "QQ Browser": 0.17,
     "Coc Coc": 0.13,
     "Whale Browser": 0.06,
@@ -6154,5 +6154,6 @@
     "KaiOS": 0.01,
     "Sony PS4": 0.01,
     "Instabridge": 0.01
-  }
+  },
+  "2026-09": {}
 }
