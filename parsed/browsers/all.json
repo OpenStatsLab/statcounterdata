@@ -6210,9 +6210,9 @@
     "Instabridge": 0.01
   },
   "2026-11": {
-    "Chrome": 69.58,
-    "Safari": 16.22,
-    "Edge": 5.04,
+    "Chrome": 69.62,
+    "Safari": 16.19,
+    "Edge": 5.05,
     "Firefox": 2.51,
     "Samsung Internet": 2.0,
     "Opera": 1.8,
@@ -6223,7 +6223,7 @@
     "Android": 0.22,
     "360 Safe Browser": 0.14,
     "QQ Browser": 0.14,
-    "Coc Coc": 0.13,
+    "Coc Coc": 0.12,
     "Whale Browser": 0.05,
     "Other": 0.04,
     "Unknown": 0.03,
